@@ -92,16 +92,15 @@ Links, collected and grouped in the Markdown format.
   * [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
-* misc
-  * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
-  * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
-  * [Learning Advanced JavaScript](http://ejohn.org/apps/learn)
-  * [Parallel.js: Parallel computing with Javascript](http://adambom.github.com/parallel.js)
-  * [A plain English guide to JavaScript prototypes - Sebastian's Blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
-  * [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics)
-  * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
+* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn)
+* [Parallel.js: Parallel computing with Javascript](http://adambom.github.com/parallel.js)
+* [A plain English guide to JavaScript prototypes - Sebastian's Blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
+* [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics)
+* [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
 
-#### layout, css
+#### layout, CSS
 
 * [Designing for the Web – Contents](http://www.designingfortheweb.co.uk)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
@@ -151,11 +150,6 @@ Links, collected and grouped in the Markdown format.
 * [Conjugation of all German verbs - Conjugation tables](http://www.verbformen.com)
 * [Lohn- und Einkommensteuerberechnung](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
 * [smartsteuer | Steuererklärung](https://www.smartsteuer.de/online)
-
-### wish list
-
-* [Purely Functional Data Structures: Chris Okasaki](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504)
-* [Foundations of Python Network Programming eBook: Brandon Rhodes, John Goerzen](http://www.amazon.com/gp/product/B00MBL19DS)
 
 ## Notes
 
