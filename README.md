@@ -31,18 +31,22 @@ Links, collected and grouped in the Markdown format.
 
 #### FP
 
-* [Welcome to the SICP Web Site](http://mitpress.mit.edu/sicp)
-* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
-* [Clojure for the Brave and True, an online Book for Beginners](http://www.braveclojure.com)
-* [Functional Talks | Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
+* [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 * [The HoTT Book | Homotopy Type Theory](http://homotopytypetheory.org/book)
-* [Contents • Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
-* [Chapters - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-* [Lecture 1A | MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
-* [Let Over Lambda](http://letoverlambda.com)
-* [Common Lisp HyperSpec (TM)](http://www.lispworks.com/documentation/HyperSpec/Front)
-* [Welcome to SICP Distilled](http://www.sicpdistilled.com)
-* [dryewo/new-hope: Training camp for doing Clojure exercises](https://github.com/dryewo/new-hope)
+* SICP
+  * [the SICP Web Site](http://mitpress.mit.edu/sicp)
+  * [Welcome to SICP Distilled](http://www.sicpdistilled.com)
+  * [Lecture 1A | MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
+* Lisp
+  * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com)
+  * [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
+  * [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
+* Closure
+  * [Clojure for the Brave and True, an online Book for Beginners](http://www.braveclojure.com)
+  * [dryewo/new-hope: Training camp for doing Clojure exercises](https://github.com/dryewo/new-hope)
+* Haskell
+  * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+  * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
 
 #### Unix
 
@@ -64,10 +68,10 @@ Links, collected and grouped in the Markdown format.
 #### DB
 
 * PostgreSQL
-  * [PostgreSQL: Documentation: 9.3: psql](https://www.postgresql.org/docs/current/static)
+  * [Documentation](https://www.postgresql.org/docs/current/static)
   * [Postgres: The Bits You Haven't Found](https://postgres-bits.herokuapp.com)
   * [Rapid schema development with PostgreSQL](https://speakerdeck.com/andrewgodwin/rapid-schema-development-with-postgresql)
-* [Command reference – Redis](https://redis.io/commands)
+* [Redis - Command reference](https://redis.io/commands)
 * [Memcached Wiki](https://code.google.com/p/memcached/wiki/NewStart)
 * [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](http://db-engines.com/en)
 
@@ -99,6 +103,7 @@ Links, collected and grouped in the Markdown format.
 * [A plain English guide to JavaScript prototypes - Sebastian's Blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics)
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+* [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
 #### layout, CSS
 
@@ -124,11 +129,10 @@ Links, collected and grouped in the Markdown format.
 #### tools
 
 * [Debuggex: A visual regex helper](http://www.debuggex.com)
+* [Diagramly - Draw Diagrams Online](http://www.diagram.ly)
 * [Online JSON Viewer](http://jsonviewer.stack.hu)
 * [Free Online XML Formatter - FreeFormatter.com](http://www.freeformatter.com/xml-formatter.html#ad-output)
-* [Diagramly - Draw Diagrams Online](http://www.diagram.ly)
 * [CloudConvert - convert anything to anything](https://cloudconvert.org)
-* [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 * [TinyPNG – Compress PNG images while preserving transparency](http://tinypng.org)
 
 #### misc
