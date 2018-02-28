@@ -116,13 +116,17 @@ Links, collected and grouped in the Markdown format.
 
 #### layout, CSS
 
-* [Designing for the Web – Contents](http://www.designingfortheweb.co.uk)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
 * [How to Center in CSS](http://howtocenterincss.com)
-* [Semantic UI](http://semantic-ui.com)
+* [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
+
+#### design
+
+* [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
+* [Designing for the Web](http://www.designingfortheweb.co.uk)
 
 #### data visualization
 
