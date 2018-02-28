@@ -4,6 +4,15 @@ Links, collected and grouped in the Markdown format.
 
 ## Topics
 
+### reading
+
+* [УКРЛІТ.ORG](http://ukrlit.org)
+* [The Pragmatic Bookshelf](https://pragprog.com/)
+
+### music studies
+
+* [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
+
 ### courses
 
 * [The 50 best free online university courses according to data](https://medium.freecodecamp.org/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac)
@@ -23,14 +32,22 @@ Links, collected and grouped in the Markdown format.
 * [Analysis of Algorithms - Princeton University](https://www.coursera.org/course/aofa)
 * [Introduction to Natural Language Processing - University of Michigan](https://www.coursera.org/course/nlpintro)
 
+### design
+
+* [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
+* [Designing for the Web](https://www.designingfortheweb.co.uk)
+
 ### programming
 
 #### architecture/design
 
 * [Design Patterns](http://sourcemaking.com/design_patterns)
-* [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
-* [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+* [Simple Made Easy (by Rich Hickey)](http://www.infoq.com/presentations/Simple-Made-Easy)
+* [Game Programming Patterns (by Bob Nystrom)](https://gameprogrammingpatterns.com/contents.html)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* JS
+  * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
+  * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
 
 #### FP
 
@@ -71,6 +88,7 @@ Links, collected and grouped in the Markdown format.
 * [HTTP caching | Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * [A Beginner's Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers)
 * [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices)
+* [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co/)
 
 #### DB
 
@@ -103,9 +121,6 @@ Links, collected and grouped in the Markdown format.
   * [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
-* patterns
-  * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
-  * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn)
 * [Parallel.js: Parallel computing with Javascript](http://adambom.github.com/parallel.js)
 * [A plain English guide to JavaScript prototypes - Sebastian's Blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
@@ -122,11 +137,6 @@ Links, collected and grouped in the Markdown format.
 * [How to Center in CSS](http://howtocenterincss.com)
 * [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
-
-#### design
-
-* [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
-* [Designing for the Web](http://www.designingfortheweb.co.uk)
 
 #### data visualization
 
@@ -147,20 +157,6 @@ Links, collected and grouped in the Markdown format.
 * [Free Online XML Formatter - FreeFormatter.com](http://www.freeformatter.com/xml-formatter.html#ad-output)
 * [CloudConvert - convert anything to anything](https://cloudconvert.org)
 * [TinyPNG – Compress PNG images while preserving transparency](http://tinypng.org)
-
-#### misc
-
-* [The Pragmatic Bookshelf](http://pragprog.com)
-* [The Open Graph protocol](http://ogp.me)
-* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-
-### music studies
-
-* [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
-
-### reading
-
-* [УКРЛІТ.ORG](http://ukrlit.org)
 
 ### Germany
 
