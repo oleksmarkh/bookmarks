@@ -6,12 +6,15 @@ Links, collected and grouped in the Markdown format.
 
 ### courses
 
+* [The 50 best free online university courses according to data](https://medium.freecodecamp.org/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac)
+
 #### Udacity
 
-* [Intro to the Design of Everyday Things](https://www.udacity.com/course/design101)
-* [Programming Languages: Building A Web Browser](https://www.udacity.com/course/cs262)
-* [Design of Computer Programs: Programming Principles](https://www.udacity.com/course/cs212)
-* [Android App Development](https://www.udacity.com/course/new-android-fundamentals--ud851)
+* [Intro to the Design of Everyday Things: Principles of Design](https://www.udacity.com/course/design101)
+* [Programming Languages: Building A Web Browser](https://eu.udacity.com/course/programming-languages--cs262)
+* [Design of Computer Programs: Programming Principles](https://eu.udacity.com/course/design-of-computer-programs--cs212)
+* [Android App Development (by Google)](https://eu.udacity.com/course/new-android-fundamentals--ud851)
+* [Offline Web Applications (by Google)](https://eu.udacity.com/course/offline-web-applications--ud899)
 
 #### Coursera
 
@@ -33,6 +36,8 @@ Links, collected and grouped in the Markdown format.
 
 * [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 * [The HoTT Book | Homotopy Type Theory](http://homotopytypetheory.org/book)
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
+* [Functional Programming For The Rest of Us](http://www.defmacro.org/2006/06/19/fp.html)
 * SICP
   * [the SICP Web Site](http://mitpress.mit.edu/sicp)
   * [Welcome to SICP Distilled](http://www.sicpdistilled.com)
@@ -47,6 +52,8 @@ Links, collected and grouped in the Markdown format.
 * Haskell
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
   * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
+* JS
+  * [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
 
 #### Unix
 
@@ -77,9 +84,9 @@ Links, collected and grouped in the Markdown format.
 
 #### Python
 
-* [Learn Python the hard way](https://learnpythonthehardway.org/book)
 * [The Python Language Reference](https://docs.python.org/3/reference)
-* [Explore Flask](https://exploreflask.com/en/latest/)
+* [Learn Python the hard way](https://learnpythonthehardway.org/book)
+* [Explore Flask](https://exploreflask.com/en/latest)
 * [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest)
 * [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
 * [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
@@ -96,14 +103,16 @@ Links, collected and grouped in the Markdown format.
   * [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
-* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
+* patterns
+  * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
+  * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn)
 * [Parallel.js: Parallel computing with Javascript](http://adambom.github.com/parallel.js)
 * [A plain English guide to JavaScript prototypes - Sebastian's Blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics)
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
 * [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
 #### layout, CSS
 
