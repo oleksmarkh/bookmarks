@@ -7,7 +7,7 @@ Links, collected and grouped in the Markdown format.
 ### reading
 
 * [УКРЛІТ.ORG](http://ukrlit.org)
-* [The Pragmatic Bookshelf](https://pragprog.com/)
+* [The Pragmatic Bookshelf](https://pragprog.com)
 
 ### music studies
 
@@ -38,6 +38,11 @@ Links, collected and grouped in the Markdown format.
 * [Designing for the Web](https://www.designingfortheweb.co.uk)
 
 ### programming
+
+#### algorithms, data structures
+
+* [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+* [LeetCode Articles](https://leetcode.com/articles)
 
 #### architecture/design
 
@@ -79,7 +84,7 @@ Links, collected and grouped in the Markdown format.
 * [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 * [Welcome to The UNIX Grymoire!](http://www.grymoire.com/Unix)
 * [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course)
-* [TMUX – The Terminal Multiplexer (Part 1) | Hawk Host Blog](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer)
+* [TMUX – The Terminal Multiplexer (Part 1) | Hawk Host blog](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer)
 * [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
 
@@ -88,7 +93,7 @@ Links, collected and grouped in the Markdown format.
 * [HTTP caching | Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * [A Beginner's Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers)
 * [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices)
-* [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co/)
+* [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co)
 
 #### DB
 
@@ -114,6 +119,7 @@ Links, collected and grouped in the Markdown format.
 * Node
   * [Node.js API](https://nodejs.org/api)
   * [NodeCloud - Node.js resources](https://www.nodecloud.org)
+  * [Node Weekly - news and articles](https://nodeweekly.com/issues)
 * extensions
   * [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
   * [Extensions | MDN](https://developer.mozilla.org/en/docs/Extensions)
@@ -121,9 +127,11 @@ Links, collected and grouped in the Markdown format.
   * [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
+* [2ality – JavaScript and more (by Dr. Axel Rauschmayer)](http://2ality.com)
+* [V8 JavaScript Engine - blog](https://v8project.blogspot.de)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn)
 * [Parallel.js: Parallel computing with Javascript](http://adambom.github.com/parallel.js)
-* [A plain English guide to JavaScript prototypes - Sebastian's Blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
+* [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics)
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
 * [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
