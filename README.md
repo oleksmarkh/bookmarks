@@ -19,18 +19,17 @@ Links, collected and grouped in the Markdown format.
 
 #### Udacity
 
-* [Intro to the Design of Everyday Things: Principles of Design](https://www.udacity.com/course/design101)
-* [Programming Languages: Building A Web Browser](https://eu.udacity.com/course/programming-languages--cs262)
-* [Design of Computer Programs: Programming Principles](https://eu.udacity.com/course/design-of-computer-programs--cs212)
-* [Android App Development (by Google)](https://eu.udacity.com/course/new-android-fundamentals--ud851)
-* [Offline Web Applications (by Google)](https://eu.udacity.com/course/offline-web-applications--ud899)
+* [Intro to the Design of Everyday Things: Principles of Design](https://eu.udacity.com/course/intro-to-the-design-of-everyday-things--design101) (beginner)
+* [Programming Languages: Building A Web Browser](https://eu.udacity.com/course/programming-languages--cs262) (intermediate)
+* [Design of Computer Programs: Programming Principles](https://eu.udacity.com/course/design-of-computer-programs--cs212) (advanced)
+* [Android App Development (by Google)](https://eu.udacity.com/course/new-android-fundamentals--ud851) (intermediate)
+* [Offline Web Applications: Using IndexedDB & Service Worker (by Google)](https://eu.udacity.com/course/offline-web-applications--ud899) (intermediate)
 
 #### Coursera
 
-* [Programming Languages](https://www.coursera.org/course/proglang)
-* [Algorithms: Design and Analysis, Part 1 - Stanford University](https://www.coursera.org/course/algo)
-* [Analysis of Algorithms - Princeton University](https://www.coursera.org/course/aofa)
-* [Introduction to Natural Language Processing - University of Michigan](https://www.coursera.org/course/nlpintro)
+* [Programming Languages, Part A (by University of Washington)](https://www.coursera.org/learn/programming-languages) (intermediate)
+* [Algorithms Specialization (by Stanford University)](https://www.coursera.org/specializations/algorithms) (intermediate)
+* [Analysis of Algorithms (by Princeton University)](https://www.coursera.org/learn/analysis-of-algorithms) (advanced)
 
 ### design
 
