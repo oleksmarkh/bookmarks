@@ -106,47 +106,47 @@ Links, collected and grouped in the Markdown format.
 
 #### Python
 
-* [The Python Language Reference](https://docs.python.org/3/reference) #docs
-* [Learn Python the hard way](https://learnpythonthehardway.org/book) #book
-* [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest) #book
-* [Explore Flask](https://exploreflask.com/en/latest) #book
-* [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses) #blog
-* [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python) #blog
+* :blue_book: [The Python Language Reference](https://docs.python.org/3/reference)
+* :books: [Learn Python the hard way](https://learnpythonthehardway.org/book)
+* :books: [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest)
+* :books: [Explore Flask](https://exploreflask.com/en/latest)
+* :memo: [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
+* :memo: [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
 
 #### JS
 
 * ES
-  * [2ality – JavaScript and more (by Dr. Axel Rauschmayer)](http://2ality.com) #blog
-  * [V8 JavaScript Engine - blog](https://v8project.blogspot.de) #blog
-  * [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes) #blog
+  * :notebook: [2ality – JavaScript and more (by Dr. Axel Rauschmayer)](http://2ality.com)
+  * :notebook: [V8 JavaScript Engine - blog](https://v8project.blogspot.de)
+  * :memo: [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * Node
-  * [Node.js API](https://nodejs.org/api) #docs
-  * [NodeCloud - Node.js resources](https://www.nodecloud.org) #links
-  * [Node Weekly - news and articles](https://nodeweekly.com/issues) #digest
+  * :blue_book: [Node.js API](https://nodejs.org/api)
+  * :link: [NodeCloud - Node.js resources](https://www.nodecloud.org)
+  * :link: [Node Weekly - news and articles](https://nodeweekly.com/issues)
 * extensions
-  * [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide) #blog
-  * [Extensions | MDN](https://developer.mozilla.org/en/docs/Extensions) #docs
+  * :blue_book: [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
+  * :blue_book: [Extensions | MDN](https://developer.mozilla.org/en/docs/Extensions)
 * SVG
-  * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book) #book
-  * [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1) #tutorial
-  * [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io) #lib
-* [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org) #converter
-* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com) #tutorial
+  * :books: [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
+  * :newspaper: [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
+  * :wrench: [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
+* :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
+* :newspaper: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
 #### layout, CSS
 
-* [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com) #catalog
-* [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html) #tutorial
-* [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox) #tutorial
-* [How to Center in CSS](http://howtocenterincss.com) #tutorial
-* [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com) #framework
-* [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) #lib
+* :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
+* :newspaper: [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+* :newspaper: [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* :newspaper: [How to Center in CSS](http://howtocenterincss.com)
+* :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
+* :wrench: [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
 
 #### data visualization
 
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) #book
-* [Fundamentals of Data Visualization](http://serialmentor.com/dataviz) #book
-* [d3 Wiki](https://github.com/mbostock/d3/wiki) #lib
+* :books: [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+* :books: [Fundamentals of Data Visualization](http://serialmentor.com/dataviz)
+* :wrench: [d3 Wiki](https://github.com/mbostock/d3/wiki)
 
 #### Unicode
 
@@ -168,5 +168,15 @@ Links, collected and grouped in the Markdown format.
 * [smartsteuer | Steuererklärung](https://www.smartsteuer.de/online)
 
 ## Notes
+
+Legend:
+
+* :blue_book: - docs
+* :books: - book
+* :notebook: - blog
+* :memo: - blog post
+* :newspaper: - tutorial
+* :wrench: - tool (lib/framework)
+* :link: - catalog, digest
 
 Inspired by [bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md).
