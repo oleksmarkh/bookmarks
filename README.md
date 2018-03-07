@@ -60,9 +60,9 @@ Links, collected and grouped in the Markdown format.
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
 * [Functional Programming For The Rest of Us](http://www.defmacro.org/2006/06/19/fp.html)
 * SICP
-  * [the SICP Web Site](http://mitpress.mit.edu/sicp)
-  * [Welcome to SICP Distilled](http://www.sicpdistilled.com)
-  * [Lecture 1A | MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
+  * :books: [the SICP Web Site](http://mitpress.mit.edu/sicp)
+  * :books: [Welcome to SICP Distilled](http://www.sicpdistilled.com)
+  * :movie_camera: [Lecture 1A | MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
 * Lisp
   * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com)
   * [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
@@ -97,12 +97,12 @@ Links, collected and grouped in the Markdown format.
 #### DB
 
 * PostgreSQL
-  * [Documentation](https://www.postgresql.org/docs/current/static)
-  * [Postgres: The Bits You Haven't Found](https://postgres-bits.herokuapp.com)
-  * [Rapid schema development with PostgreSQL](https://speakerdeck.com/andrewgodwin/rapid-schema-development-with-postgresql)
-* [Redis - Command reference](https://redis.io/commands)
-* [Memcached Wiki](https://code.google.com/p/memcached/wiki/NewStart)
-* [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](http://db-engines.com/en)
+  * :blue_book: [Documentation](https://www.postgresql.org/docs/current/static)
+  * :scroll: [Postgres: The Bits You Haven't Found](https://postgres-bits.herokuapp.com)
+  * :scroll: [Rapid schema development with PostgreSQL](https://speakerdeck.com/andrewgodwin/rapid-schema-development-with-postgresql)
+* :blue_book: [Redis - Command reference](https://redis.io/commands)
+* :blue_book: [Memcached Wiki](https://github.com/memcached/memcached/wiki)
+* :link: [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](http://db-engines.com/en)
 
 #### Python
 
@@ -130,15 +130,15 @@ Links, collected and grouped in the Markdown format.
   * :books: [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
   * :newspaper: [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * :wrench: [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
-* :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 * :newspaper: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+* :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
 #### layout, CSS
 
-* :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * :newspaper: [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * :newspaper: [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
 * :newspaper: [How to Center in CSS](http://howtocenterincss.com)
+* :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * :wrench: [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
 
@@ -159,7 +159,7 @@ Links, collected and grouped in the Markdown format.
 * [Online JSON Viewer](http://jsonviewer.stack.hu)
 * [Free Online XML Formatter - FreeFormatter.com](http://www.freeformatter.com/xml-formatter.html#ad-output)
 * [CloudConvert - convert anything to anything](https://cloudconvert.org)
-* [TinyPNG – Compress PNG images while preserving transparency](http://tinypng.org)
+* [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
 
 ### Germany
 
@@ -175,8 +175,10 @@ Legend:
 * :books: - book
 * :notebook: - blog
 * :memo: - blog post
-* :newspaper: - tutorial
-* :wrench: - tool (lib/framework)
+* :scroll: - presentation
+* :movie_camera: - video
+* :newspaper: - tutorial, guide
 * :link: - catalog, digest
+* :wrench: - tool (lib/framework)
 
 Inspired by [bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md).
