@@ -130,6 +130,8 @@ Links, collected and grouped in the Markdown format.
   * :books: [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
   * :newspaper: [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * :wrench: [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
+  * :wrench: [GSAP (GreenSock Animation Platform) - CSS properties, SVG, canvas libraries, custom properties](https://github.com/greensock/GreenSock-JS)
+* :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
 * :newspaper: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
@@ -177,6 +179,7 @@ Legend:
 * :memo: - blog post
 * :scroll: - presentation
 * :movie_camera: - video
+* :radio: - podcast
 * :newspaper: - tutorial, guide
 * :link: - catalog, digest
 * :wrench: - tool (lib/framework)
