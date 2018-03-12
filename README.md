@@ -89,10 +89,9 @@ Links, collected and grouped in the Markdown format.
 
 #### HTTP
 
-* [HTTP caching | Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
-* [A Beginner's Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers)
-* [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices)
-* [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co)
+* :blue_book: [HTTP caching | Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+* :books: [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co)
+* :memo: [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices)
 
 #### DB
 
@@ -103,6 +102,11 @@ Links, collected and grouped in the Markdown format.
 * :blue_book: [Redis - Command reference](https://redis.io/commands)
 * :blue_book: [Memcached Wiki](https://github.com/memcached/memcached/wiki)
 * :link: [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](http://db-engines.com/en)
+
+#### RegEx
+
+* :link: [Regular-Expressions.info - Regex Tutorial, Examples and Reference](https://www.regular-expressions.info)
+* :wrench: [Debuggex: A visual regex helper](https://www.debuggex.com)
 
 #### Python
 
@@ -143,6 +147,7 @@ Links, collected and grouped in the Markdown format.
 * :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * :wrench: [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
+* :wrench: [Unicode character table](https://unicode-table.com/en)
 
 #### data visualization
 
@@ -150,18 +155,12 @@ Links, collected and grouped in the Markdown format.
 * :books: [Fundamentals of Data Visualization](http://serialmentor.com/dataviz)
 * :wrench: [d3 Wiki](https://github.com/mbostock/d3/wiki)
 
-#### Unicode
+#### formatters, converters
 
-* [Unicode character table](http://unicode-table.com/en)
-* [A List of Unicode Groups and Categories](http://www.codetable.net/groups)
-
-#### tools
-
-* [Debuggex: A visual regex helper](https://www.debuggex.com)
-* [Online JSON Viewer](http://jsonviewer.stack.hu)
-* [Free Online XML Formatter - FreeFormatter.com](http://www.freeformatter.com/xml-formatter.html#ad-output)
-* [CloudConvert - convert anything to anything](https://cloudconvert.org)
-* [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
+* :wrench: [Online JSON Viewer](http://jsonviewer.stack.hu)
+* :wrench: [Free Online XML Formatter - FreeFormatter.com](https://www.freeformatter.com/xml-formatter.html)
+* :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
+* :wrench: [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
 
 ### Germany
 
