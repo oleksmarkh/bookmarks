@@ -78,20 +78,19 @@ Links, collected and grouped in the Markdown format.
 
 #### Unix
 
-* [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
-* [SSHFS - Secure SHell FileSystem for Mounting Remote Filesystems](http://www.tecmint.com/sshfs-secure-shell-filesystem-for-mounting-remote-linux-filesystems)
-* [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-* [Welcome to The UNIX Grymoire!](http://www.grymoire.com/Unix)
-* [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course)
-* [TMUX – The Terminal Multiplexer (Part 1) | Hawk Host blog](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer)
-* [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
-* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
+* :books: [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
+* :notebook: [The Grymoire - home for UNIX wizards (by Bruce Barnett)](http://www.grymoire.com/Unix)
+* :movie_camera: [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+* :newspaper: [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
+* :newspaper: [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
+* :newspaper: [A tmux Crash Course (by Josh Clayton)](http://robots.thoughtbot.com/a-tmux-crash-course)
+* :newspaper: [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
 
 #### HTTP
 
 * :blue_book: [HTTP caching | Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * :books: [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co)
-* :memo: [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices)
+* :memo: [Caching best practices & max-age gotchas (by Jake Archibald)](https://jakearchibald.com/2016/caching-best-practices)
 
 #### DB
 
