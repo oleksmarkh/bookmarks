@@ -6,12 +6,12 @@ Links, collected and grouped in the Markdown format.
 
 ### reading
 
-* [УКРЛІТ.ORG](http://ukrlit.org)
-* [The Pragmatic Bookshelf](https://pragprog.com)
+* :link: [УКРЛІТ.ORG](http://ukrlit.org)
+* :link: [The Pragmatic Bookshelf](https://pragprog.com)
 
 ### music studies
 
-* [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
+* :link: [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
 
 ### courses
 
@@ -33,48 +33,48 @@ Links, collected and grouped in the Markdown format.
 
 ### design
 
-* [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
-* [Designing for the Web](https://www.designingfortheweb.co.uk)
+* :books: [Designing for the Web](https://www.designingfortheweb.co.uk)
+* :memo: [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
 
 ### programming
 
 #### algorithms, data structures
 
-* [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
-* [LeetCode Articles](https://leetcode.com/articles)
+* :memo: [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+* :link: [LeetCode Articles](https://leetcode.com/articles)
 
 #### architecture/design
 
-* [Design Patterns](http://sourcemaking.com/design_patterns)
-* [Simple Made Easy (by Rich Hickey)](http://www.infoq.com/presentations/Simple-Made-Easy)
-* [Game Programming Patterns (by Bob Nystrom)](https://gameprogrammingpatterns.com/contents.html)
-* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* :books: [Game Programming Patterns (by Bob Nystrom)](https://gameprogrammingpatterns.com/contents.html)
+* :books: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* :memo: [Design Patterns](https://sourcemaking.com/design_patterns)
+* :scroll: [Simple Made Easy (by Rich Hickey)](https://www.infoq.com/presentations/Simple-Made-Easy) :star:
 * JS
-  * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp)
-  * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
+  * :books: [Learning JavaScript Design Patterns (by Addy Osmani)](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
+  * :books: [Patterns For Large-Scale JavaScript Application Architecture (by Addy Osmani)](https://addyosmani.com/largescalejavascript)
 
 #### FP
 
-* [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
-* [The HoTT Book | Homotopy Type Theory](http://homotopytypetheory.org/book)
-* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
-* [Functional Programming For The Rest of Us](http://www.defmacro.org/2006/06/19/fp.html)
+* :books: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
+* :books: [The HoTT Book | Homotopy Type Theory](https://homotopytypetheory.org/book)
+* :memo: [Functional Programming For The Rest of Us (by Slava Akhmechet)](https://www.defmacro.org/2006/06/19/fp.html)
+* :link: [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 * SICP
   * :books: [the SICP Web Site](http://mitpress.mit.edu/sicp)
   * :books: [Welcome to SICP Distilled](http://www.sicpdistilled.com)
   * :movie_camera: [Lecture 1A | MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
 * Lisp
-  * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com)
-  * [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
-  * [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
+  * :blue_book: [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
+  * :books: [Let Over Lambda - 50 Years of Lisp (by Doug Hoyte)](http://letoverlambda.com)
+  * :books: [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 * Closure
-  * [Clojure for the Brave and True, an online Book for Beginners](http://www.braveclojure.com)
-  * [dryewo/new-hope: Training camp for doing Clojure exercises](https://github.com/dryewo/new-hope)
+  * :books: [Clojure for the Brave and True, an online Book for Beginners](https://www.braveclojure.com)
+  * :eyeglasses: [A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
 * Haskell
-  * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-  * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
+  * :books: [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+  * :books: [Parallel and Concurrent Programming in Haskell (by Simon Marlow)](https://simonmar.github.io/pages/pcph.html)
 * JS
-  * [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
+  * :newspaper: [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
 
 #### Unix
 
@@ -180,6 +180,8 @@ Legend:
 * :radio: - podcast
 * :newspaper: - tutorial, guide
 * :link: - catalog, digest
+* :eyeglasses: - style guide
 * :wrench: - tool (lib/framework)
+* :star: - favorite
 
 Inspired by [bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md).
