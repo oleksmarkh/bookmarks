@@ -13,9 +13,21 @@ Links, collected and grouped in the Markdown format.
 
 * :link: [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
 
+### languages
+
+* [Multitran](https://www.multitran.com/de/ru)
+* [Linguee Dictionary German-English](https://www.linguee.com/english-german)
+* [DeepL Translator](https://www.deepl.com/translator)
+* [Conjugation of all German verbs - Conjugation tables](http://www.verbformen.com)
+
+### Germany
+
+* [Lohn- und Einkommensteuerberechnung](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
+* [smartsteuer | Steuererklärung](https://www.smartsteuer.de/online)
+
 ### courses
 
-* [The 50 best free online university courses according to data](https://medium.freecodecamp.org/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac)
+* :link: [The 50 best free online university courses according to data](https://medium.freecodecamp.org/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac)
 
 #### Udacity
 
@@ -120,10 +132,12 @@ Links, collected and grouped in the Markdown format.
 
 #### JS
 
-* ES
+* ECMAScript
   * :notebook: [2ality – JavaScript and more (by Dr. Axel Rauschmayer)](http://2ality.com)
   * :notebook: [V8 JavaScript Engine - blog](https://v8project.blogspot.de)
   * :memo: [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
+* TypeScript
+  * :blue_book: [Documentation](https://www.typescriptlang.org/docs/home.html)
 * Node
   * :blue_book: [Node.js API](https://nodejs.org/api)
   * :link: [NodeCloud - Node.js resources](https://www.nodecloud.org)
@@ -136,8 +150,12 @@ Links, collected and grouped in the Markdown format.
   * :newspaper: [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * :wrench: [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * :wrench: [GSAP (GreenSock Animation Platform) - CSS properties, SVG, canvas libraries, custom properties](https://github.com/greensock/GreenSock-JS)
+* :wrench: Google Closure Library
+  * :blue_book: [Closure  API Docs](https://google.github.io/closure-library/api)
+  * :newspaper: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
+* :wrench: Jasmine
+  * :blue_book: [API Docs](https://jasmine.github.io/api/edge/global)
 * :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
-* :newspaper: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * :newspaper: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
@@ -163,12 +181,6 @@ Links, collected and grouped in the Markdown format.
 * :wrench: [Free Online XML Formatter - FreeFormatter.com](https://www.freeformatter.com/xml-formatter.html)
 * :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
 * :wrench: [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
-
-### Germany
-
-* [Conjugation of all German verbs - Conjugation tables](http://www.verbformen.com)
-* [Lohn- und Einkommensteuerberechnung](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
-* [smartsteuer | Steuererklärung](https://www.smartsteuer.de/online)
 
 ## Notes
 
