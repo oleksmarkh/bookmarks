@@ -75,9 +75,11 @@ Links, collected and grouped in the Markdown format.
   * :books: [Parallel and Concurrent Programming in Haskell (by Simon Marlow)](https://simonmar.github.io/pages/pcph.html)
 * JS
   * :newspaper: [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
+  * :link: [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
 #### Unix
 
+* :blue_book: [Gerrit Code Review for Git](https://gerrit-review.googlesource.com/Documentation)
 * :books: [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
 * :notebook: [The Grymoire - home for UNIX wizards (by Bruce Barnett)](http://www.grymoire.com/Unix)
 * :movie_camera: [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
@@ -135,6 +137,7 @@ Links, collected and grouped in the Markdown format.
   * :wrench: [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * :wrench: [GSAP (GreenSock Animation Platform) - CSS properties, SVG, canvas libraries, custom properties](https://github.com/greensock/GreenSock-JS)
 * :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
+* :newspaper: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * :newspaper: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
