@@ -1,6 +1,6 @@
 # bookmarks
 
-Links, collected and grouped in the Markdown format.
+Links, collected and grouped in [Markdown](https://guides.github.com/features/mastering-markdown) format.
 
 ## Topics
 
@@ -70,7 +70,7 @@ Links, collected and grouped in the Markdown format.
 * :books: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
 * :books: [The HoTT Book | Homotopy Type Theory](https://homotopytypetheory.org/book)
 * :memo: [Functional Programming For The Rest of Us (by Slava Akhmechet)](https://www.defmacro.org/2006/06/19/fp.html)
-* :microphone: [#kievfprog](https://kievfprog.net)
+* :microphone: [#kievfprog - Functional Programming Community Meetup in Kyiv](https://kievfprog.net)
 * :link: [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 * SICP
   * :books: [the SICP Web Site](http://mitpress.mit.edu/sicp)
@@ -190,13 +190,13 @@ Links, collected and grouped in the Markdown format.
 
 ## Notes
 
-Legend:
+Legend (categories):
 
 * :blue_book: - docs
 * :books: - book
 * :notebook: - blog
 * :memo: - blog post
-* :microphone: - conference
+* :microphone: - conference, meetup
 * :scroll: - presentation
 * :movie_camera: - video
 * :radio: - podcast
@@ -205,5 +205,7 @@ Legend:
 * :eyeglasses: - style guide
 * :wrench: - tool (lib/framework)
 * :star: - favorite
+
+When adding a new link, make sure it's ordered according to this categorization (also applies to sublists).
 
 Inspired by [bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md).
