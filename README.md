@@ -23,7 +23,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 ### Germany
 
 * [Lohn- und Einkommensteuerberechnung](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
-* [smartsteuer | Steuererklärung](https://www.smartsteuer.de/online)
+* [smartsteuer - Steuererklärung](https://www.smartsteuer.de/online)
 
 ### courses
 
@@ -68,14 +68,14 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### FP
 
 * :books: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
-* :books: [The HoTT Book | Homotopy Type Theory](https://homotopytypetheory.org/book)
+* :books: [The HoTT Book - Homotopy Type Theory](https://homotopytypetheory.org/book)
 * :memo: [Functional Programming For The Rest of Us (by Slava Akhmechet)](https://www.defmacro.org/2006/06/19/fp.html)
 * :microphone: [#kievfprog - Functional Programming Community Meetup in Kyiv](https://kievfprog.net)
 * :link: [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 * SICP
   * :books: [the SICP Web Site](http://mitpress.mit.edu/sicp)
   * :books: [Welcome to SICP Distilled](http://www.sicpdistilled.com)
-  * :movie_camera: [Lecture 1A | MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
+  * :movie_camera: [Lecture 1A - MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
 * Lisp
   * :blue_book: [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
   * :books: [Let Over Lambda - 50 Years of Lisp (by Doug Hoyte)](http://letoverlambda.com)
@@ -103,7 +103,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 #### HTTP
 
-* :blue_book: [HTTP caching | Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+* :blue_book: [HTTP caching - Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * :books: [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co)
 * :memo: [Caching best practices & max-age gotchas (by Jake Archibald)](https://jakearchibald.com/2016/caching-best-practices)
 
@@ -145,7 +145,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :link: [Node Weekly - news and articles](https://nodeweekly.com/issues)
 * extensions
   * :blue_book: [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
-  * :blue_book: [Extensions | MDN](https://developer.mozilla.org/en/docs/Extensions)
+  * :blue_book: [Extensions - MDN](https://developer.mozilla.org/en/docs/Extensions)
 * SVG
   * :books: [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
   * :newspaper: [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
@@ -163,7 +163,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### layout, CSS
 
 * :newspaper: [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
-* :newspaper: [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* :newspaper: [A Complete Guide to Flexbox - CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
 * :newspaper: [How to Center in CSS](http://howtocenterincss.com)
 * :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
