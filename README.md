@@ -88,7 +88,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :books: [Parallel and Concurrent Programming in Haskell (by Simon Marlow)](https://simonmar.github.io/pages/pcph.html)
 * JS
   * :newspaper: [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
-  * :link: [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
+  * :link: [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) [![Awesome][awesome-image]][awesome-url]
 
 #### Unix
 
@@ -130,6 +130,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :books: [Explore Flask](https://exploreflask.com/en/latest)
 * :memo: [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
 * :memo: [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
+* :link: [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome][awesome-image]][awesome-url]
 
 #### JS
 
@@ -209,3 +210,6 @@ Legend (categories):
 When adding a new link, make sure it's ordered according to this categorization (also applies to sublists).
 
 Inspired by [bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md).
+
+[awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-url]: https://github.com/sindresorhus/awesome
