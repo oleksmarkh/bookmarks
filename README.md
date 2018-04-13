@@ -1,5 +1,7 @@
 # bookmarks
 
+  [![license][license-image]][license-url]
+
 Links, collected and grouped in [Markdown](https://guides.github.com/features/mastering-markdown) format.
 
 ## Topics
@@ -211,5 +213,7 @@ When adding a new link, make sure it's ordered according to this categorization 
 
 Inspired by [bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md).
 
+[license-image]: https://img.shields.io/github/license/oleksmarkh/bookmarks.svg?style=flat-square
+[license-url]: https://github.com/oleksmarkh/bookmarks/blob/master/LICENSE
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-url]: https://github.com/sindresorhus/awesome
