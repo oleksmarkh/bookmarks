@@ -22,6 +22,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * [DeepL Translator](https://www.deepl.com/translator)
 * [Conjugation of all German verbs - Conjugation tables](http://www.verbformen.com)
 
+### Ukraine
+
+* :newspaper: [Zbruč](https://zbruc.eu)
+
 ### Germany
 
 * [Lohn- und Einkommensteuerberechnung](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
