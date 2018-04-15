@@ -15,18 +15,18 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :link: [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
 
-### languages
+### languages 🌐
 
 * [Multitran](https://www.multitran.com/de/ru)
 * [Linguee Dictionary German-English](https://www.linguee.com/english-german)
 * [DeepL Translator](https://www.deepl.com/translator)
 * [Conjugation of all German verbs - Conjugation tables](http://www.verbformen.com)
 
-### Ukraine
+### Ukraine 🇺🇦
 
 * :newspaper: [Zbruč](https://zbruc.eu)
 
-### Germany
+### Germany 🇩🇪
 
 * [Lohn- und Einkommensteuerberechnung](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
 * [smartsteuer - Steuererklärung](https://www.smartsteuer.de/online)
