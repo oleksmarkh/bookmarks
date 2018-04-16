@@ -15,16 +15,35 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :link: [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
 
+### media
+
+#### Ukraine 🇺🇦
+
+##### news
+
+* :newspaper: [KyivPost](https://www.kyivpost.com) (en)
+* :newspaper: [Zbruč](https://zbruc.eu)
+* :newspaper: [тексти.org.ua](http://texty.org.ua)
+* :newspaper: [The Village](http://www.the-village.com.ua)
+* :newspaper: [platfor.ma](https://platfor.ma)
+* :newspaper: [БЖ](https://bzh.life) (Kyiv/Odessa/Lviv)
+* :newspaper: [comma](http://comma.com.ua) (music)
+
+##### stories
+
+* :newspaper: [Ukraїner](http://ukrainer.net/uk)
+* :newspaper: [WAS](https://was.media)
+
+#### Belarus 🇧🇾
+
+* :newspaper: [34mag](https://34mag.net)
+
 ### languages 🌐
 
 * [Multitran](https://www.multitran.com/de/ru)
 * [Linguee Dictionary German-English](https://www.linguee.com/english-german)
 * [DeepL Translator](https://www.deepl.com/translator)
 * [Conjugation of all German verbs - Conjugation tables](http://www.verbformen.com)
-
-### Ukraine 🇺🇦
-
-* :newspaper: [Zbruč](https://zbruc.eu)
 
 ### Germany 🇩🇪
 
