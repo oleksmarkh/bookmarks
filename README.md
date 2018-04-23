@@ -112,7 +112,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :books: [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
   * :books: [Parallel and Concurrent Programming in Haskell (by Simon Marlow)](https://simonmar.github.io/pages/pcph.html)
 * JS
-  * :newspaper: [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
+  * :memo: [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
   * :link: [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) [![Awesome][awesome-image]][awesome-url]
 
 #### Unix
@@ -121,10 +121,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :books: [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
 * :notebook: [The Grymoire - home for UNIX wizards (by Bruce Barnett)](http://www.grymoire.com/Unix)
 * :movie_camera: [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-* :newspaper: [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
-* :newspaper: [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
-* :newspaper: [A tmux Crash Course (by Josh Clayton)](http://robots.thoughtbot.com/a-tmux-crash-course)
-* :newspaper: [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
+* :memo: [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
+* :memo: [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
+* :memo: [A tmux Crash Course (by Josh Clayton)](http://robots.thoughtbot.com/a-tmux-crash-course)
+* :memo: [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
 
 #### HTTP
 
@@ -165,6 +165,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :memo: [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * TypeScript
   * :blue_book: [Documentation](https://www.typescriptlang.org/docs/home.html)
+  * :memo: [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html) (2ality blog, 08.04.2018)
 * Node
   * :blue_book: [Node.js API](https://nodejs.org/api)
   * :link: [NodeCloud - Node.js resources](https://www.nodecloud.org)
@@ -174,23 +175,23 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :blue_book: [Extensions - MDN](https://developer.mozilla.org/en/docs/Extensions)
 * SVG
   * :books: [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
-  * :newspaper: [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
+  * :memo: [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * :wrench: [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * :wrench: [GSAP (GreenSock Animation Platform) - CSS properties, SVG, canvas libraries, custom properties](https://github.com/greensock/GreenSock-JS)
 * :wrench: Google Closure Library
   * :blue_book: [Closure  API Docs](https://google.github.io/closure-library/api)
-  * :newspaper: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
+  * :memo: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * :wrench: Jasmine
   * :blue_book: [API Docs](https://jasmine.github.io/api/edge/global)
 * :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
-* :newspaper: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+* :memo: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
 #### layout, CSS
 
-* :newspaper: [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
-* :newspaper: [A Complete Guide to Flexbox - CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
-* :newspaper: [How to Center in CSS](http://howtocenterincss.com)
+* :memo: [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+* :memo: [A Complete Guide to Flexbox - CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* :memo: [How to Center in CSS](http://howtocenterincss.com)
 * :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * :wrench: [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
@@ -221,12 +222,12 @@ Legend (categories):
 * :blue_book: - docs
 * :books: - book
 * :notebook: - blog
-* :memo: - blog post
+* :memo: - blog post, tutorial, guide
 * :microphone: - conference, meetup
 * :scroll: - presentation
 * :movie_camera: - video
 * :radio: - podcast
-* :newspaper: - tutorial, guide
+* :newspaper: - media
 * :link: - catalog, digest
 * :eyeglasses: - style guide
 * :wrench: - tool (lib/framework)
