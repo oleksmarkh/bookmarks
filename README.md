@@ -8,7 +8,14 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 ### reading
 
+#### literature
+
 * :link: [УКРЛІТ.ORG](http://ukrlit.org)
+* :notebook: [Наш формат](https://nashformat.ua/blog)
+* :newspaper: [Читомо](http://www.chytomo.com)
+
+#### programming
+
 * :link: [The Pragmatic Bookshelf](https://pragprog.com)
 
 ### music studies
