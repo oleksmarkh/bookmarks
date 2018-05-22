@@ -204,6 +204,11 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :wrench: [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
 * :wrench: [Unicode character table](https://unicode-table.com/en)
 
+#### GIS
+
+* :blue_book: [The GeoJSON Format (RFC)](https://tools.ietf.org/html/rfc7946)
+* :wrench: [geojson.io](http://geojson.io), [geojson.net](https://geojson.net)
+
 #### data visualization
 
 * :books: [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
