@@ -190,8 +190,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :memo: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * :wrench: Jasmine
   * :blue_book: [API Docs](https://jasmine.github.io/api/edge/global)
-* :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
+* :memo: [The Service Worker Cookbook (from Mozilla)](https://serviceworke.rs)
 * :memo: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+* :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
+* :link: [A collection of utility libraries](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
 * :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
 #### layout, CSS
