@@ -13,6 +13,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :link: [УКРЛІТ.ORG](http://ukrlit.org)
 * :notebook: [Наш формат](https://nashformat.ua/blog)
 * :newspaper: [Читомо](http://www.chytomo.com)
+* :newspaper: [ЛітАкцент](http://litakcent.com)
 
 #### programming
 
