@@ -32,6 +32,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :newspaper: [KyivPost](https://www.kyivpost.com) (en)
 * :newspaper: [Zbruč](https://zbruc.eu)
 * :newspaper: [тексти.org.ua](http://texty.org.ua)
+* :newspaper: [Заборона](https://zaborona.com/)
 * :newspaper: [The Village](http://www.the-village.com.ua)
 * :newspaper: [platfor.ma](https://platfor.ma)
 * :newspaper: [БЖ](https://bzh.life) (Kyiv/Odessa/Lviv)
