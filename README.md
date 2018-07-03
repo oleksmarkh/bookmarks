@@ -32,7 +32,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :newspaper: [KyivPost](https://www.kyivpost.com) (en)
 * :newspaper: [Zbruč](https://zbruc.eu)
 * :newspaper: [тексти.org.ua](http://texty.org.ua)
-* :newspaper: [Заборона](https://zaborona.com/)
+* :newspaper: [Заборона](https://zaborona.com)
 * :newspaper: [The Village](http://www.the-village.com.ua)
 * :newspaper: [platfor.ma](https://platfor.ma)
 * :newspaper: [БЖ](https://bzh.life) (Kyiv/Odessa/Lviv)
@@ -224,9 +224,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :notebook: [Kai Krause](http://kai.sub.blue)
 * :notebook: [Work by Tom Beddard](http://sub.blue)
 
-#### formatters, converters
+#### formatters, converters, generators
 
 * :wrench: [Online JSON Viewer](http://jsonviewer.stack.hu)
+* :wrench: [JSON Generator](https://next.json-generator.com)
 * :wrench: [Free Online XML Formatter - FreeFormatter.com](https://www.freeformatter.com/xml-formatter.html)
 * :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
 * :wrench: [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
