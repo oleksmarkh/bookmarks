@@ -47,6 +47,17 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :newspaper: [34mag](https://34mag.net)
 
+### sports
+
+#### running :runner:
+
+* :notebook: [Ногибоги](https://nogibogi.com)
+
+#### biking :bicyclist:
+
+* :notebook: [InSearchOfSvet](https://www.insearchofsvet.com)
+* :notebook: [CoupleOfClimbs](https://www.coupleofclimbs.com)
+
 ### languages 🌐
 
 * [Multitran](https://www.multitran.com/de/ru)
