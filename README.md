@@ -52,6 +52,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### running :runner:
 
 * :notebook: [Ногибоги](https://nogibogi.com)
+* :newspaper: [Tracksmith journal (Meter magazine)](https://journal.tracksmith.com)
 
 #### biking :bicyclist:
 
