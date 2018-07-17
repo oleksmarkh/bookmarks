@@ -59,6 +59,11 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :notebook: [InSearchOfSvet](https://www.insearchofsvet.com)
 * :notebook: [CoupleOfClimbs](https://www.coupleofclimbs.com)
 
+### drawing
+
+* [Rebexi (Rebecca)](http://www.rebexi.com/blog)
+* [Garage canshop](http://canshop.com.ua/blog)
+
 ### languages 🌐
 
 * [Multitran](https://www.multitran.com/de/ru)
