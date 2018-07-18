@@ -85,14 +85,14 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * [Intro to the Design of Everyday Things: Principles of Design](https://eu.udacity.com/course/intro-to-the-design-of-everyday-things--design101) (beginner)
 * [Programming Languages: Building A Web Browser](https://eu.udacity.com/course/programming-languages--cs262) (intermediate)
 * [Design of Computer Programs: Programming Principles](https://eu.udacity.com/course/design-of-computer-programs--cs212) (advanced)
-* [Android App Development (by Google)](https://eu.udacity.com/course/new-android-fundamentals--ud851) (intermediate)
-* [Offline Web Applications: Using IndexedDB & Service Worker (by Google)](https://eu.udacity.com/course/offline-web-applications--ud899) (intermediate)
+* [Android App Development](https://eu.udacity.com/course/new-android-fundamentals--ud851) by Google (intermediate)
+* [Offline Web Applications: Using IndexedDB & Service Worker](https://eu.udacity.com/course/offline-web-applications--ud899) by Google (intermediate)
 
 #### Coursera
 
-* [Programming Languages, Part A (by University of Washington)](https://www.coursera.org/learn/programming-languages) (intermediate)
-* [Algorithms Specialization (by Stanford University)](https://www.coursera.org/specializations/algorithms) (intermediate)
-* [Analysis of Algorithms (by Princeton University)](https://www.coursera.org/learn/analysis-of-algorithms) (advanced)
+* [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) by University of Washington (intermediate)
+* [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) by Stanford University (intermediate)
+* [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms) by Princeton University (advanced)
 
 ### design
 
@@ -108,19 +108,21 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 #### architecture/design
 
-* :books: [Game Programming Patterns (by Bob Nystrom)](https://gameprogrammingpatterns.com/contents.html)
 * :books: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * :memo: [Design Patterns](https://sourcemaking.com/design_patterns)
-* :scroll: [Simple Made Easy (by Rich Hickey)](https://www.infoq.com/presentations/Simple-Made-Easy) :star:
+* :scroll: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) by Rich Hickey :star:
+* game programming
+  * :books: [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) by Bob Nystrom
+  * :link: [A study path for game programmer](https://github.com/miloyip/game-programmer) by Milo Yip, 2017
 * JS
-  * :books: [Learning JavaScript Design Patterns (by Addy Osmani)](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
-  * :books: [Patterns For Large-Scale JavaScript Application Architecture (by Addy Osmani)](https://addyosmani.com/largescalejavascript)
+  * :books: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) by Addy Osmani
+  * :books: [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript) by Addy Osmani
 
 #### FP
 
 * :books: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
 * :books: [The HoTT Book - Homotopy Type Theory](https://homotopytypetheory.org/book)
-* :memo: [Functional Programming For The Rest of Us (by Slava Akhmechet)](https://www.defmacro.org/2006/06/19/fp.html)
+* :memo: [Functional Programming For The Rest of Us](https://www.defmacro.org/2006/06/19/fp.html) by Slava Akhmechet
 * :microphone: [#kievfprog - Functional Programming Community Meetup in Kyiv](https://kievfprog.net)
 * :link: [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 * SICP
@@ -129,14 +131,14 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :movie_camera: [Lecture 1A - MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
 * Lisp
   * :blue_book: [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
-  * :books: [Let Over Lambda - 50 Years of Lisp (by Doug Hoyte)](http://letoverlambda.com)
+  * :books: [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com) by Doug Hoyte
   * :books: [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 * Closure
   * :books: [Clojure for the Brave and True, an online Book for Beginners](https://www.braveclojure.com)
   * :eyeglasses: [A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
 * Haskell
   * :books: [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-  * :books: [Parallel and Concurrent Programming in Haskell (by Simon Marlow)](https://simonmar.github.io/pages/pcph.html)
+  * :books: [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html) by Simon Marlow
 * JS
   * :memo: [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
   * :link: [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) [![Awesome][awesome-image]][awesome-url]
@@ -145,18 +147,18 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :blue_book: [Gerrit Code Review for Git](https://gerrit-review.googlesource.com/Documentation)
 * :books: [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
-* :notebook: [The Grymoire - home for UNIX wizards (by Bruce Barnett)](http://www.grymoire.com/Unix)
+* :notebook: [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix) by Bruce Barnett
 * :movie_camera: [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 * :memo: [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
 * :memo: [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
-* :memo: [A tmux Crash Course (by Josh Clayton)](http://robots.thoughtbot.com/a-tmux-crash-course)
+* :memo: [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course) by Josh Clayton
 * :memo: [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
 
 #### HTTP
 
 * :blue_book: [HTTP caching - Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
-* :books: [High Performance Browser Networking (by Ilya Grigorik)](https://hpbn.co)
-* :memo: [Caching best practices & max-age gotchas (by Jake Archibald)](https://jakearchibald.com/2016/caching-best-practices)
+* :books: [High Performance Browser Networking](https://hpbn.co) by Ilya Grigorik
+* :memo: [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices) by Jake Archibald
 
 #### DB
 
@@ -186,7 +188,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### JS
 
 * ECMAScript
-  * :notebook: [2ality – JavaScript and more (by Dr. Axel Rauschmayer)](http://2ality.com)
+  * :notebook: [2ality – JavaScript and more](http://2ality.com) by Axel Rauschmayer
   * :notebook: [V8 JavaScript Engine - blog](https://v8project.blogspot.de)
   * :memo: [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * TypeScript
