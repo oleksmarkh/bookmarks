@@ -198,6 +198,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :blue_book: [Node.js API](https://nodejs.org/api)
   * :link: [NodeCloud - Node.js resources](https://www.nodecloud.org)
   * :link: [Node Weekly - news and articles](https://nodeweekly.com/issues)
+  * :wrench: [ndb - debugging with Chrome DevTools](https://github.com/GoogleChromeLabs/ndb)
 * extensions
   * :blue_book: [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
   * :blue_book: [Extensions - MDN](https://developer.mozilla.org/en/docs/Extensions)
