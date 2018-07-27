@@ -41,6 +41,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 ##### stories
 
 * :newspaper: [Ukraїner](http://ukrainer.net/uk)
+* :newspaper: [Korydor](http://www.korydor.in.ua/ua)
 * :newspaper: [WAS](https://was.media)
 
 #### Belarus 🇧🇾
