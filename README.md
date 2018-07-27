@@ -216,6 +216,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :memo: [The Service Worker Cookbook (from Mozilla)](https://serviceworke.rs)
 * :memo: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
+* :link: [Web Browser Engineers](https://webbrowsereng.topicdeck.com)
 * :link: [A collection of utility libraries](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
 * :wrench: [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
