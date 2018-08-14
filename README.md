@@ -37,6 +37,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :newspaper: [platfor.ma](https://platfor.ma)
 * :newspaper: [БЖ](https://bzh.life) (Kyiv/Odessa/Lviv)
 * :newspaper: [comma](http://comma.com.ua) (music)
+* :newspaper: [Telegraf](http://telegraf.design) (design)
 
 ##### stories
 
