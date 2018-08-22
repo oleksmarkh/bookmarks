@@ -196,6 +196,13 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * TypeScript
   * :blue_book: [Documentation](https://www.typescriptlang.org/docs/home.html)
   * :memo: [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html) (2ality blog, 08.04.2018)
+* ReasonML
+  * :blue_book: [Documentation](https://reasonml.github.io/docs/en/what-and-why)
+  * :books: [Exploring ReasonML
+and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) by Axel Rauschmayer
+  * :memo: [JavaScript vs. TypeScript vs. ReasonML](http://2ality.com/2018/03/javascript-typescript-reasonml.html) (2ality blog, 18.03.2018)
+  * :link: [Weekly Reason Newsletter](https://reasonml.online/#archive)
+  * :link: [redex - Reason Package Index](https://redex.github.io)
 * Node
   * :blue_book: [Node.js API](https://nodejs.org/api)
   * :link: [NodeCloud - Node.js resources](https://www.nodecloud.org)
