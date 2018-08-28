@@ -249,10 +249,11 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) 
 * :books: [Fundamentals of Data Visualization](http://serialmentor.com/dataviz)
 * :wrench: [d3 Wiki](https://github.com/mbostock/d3/wiki)
 
-### creative development
+#### creative development and other topics
 
 * :notebook: [Kai Krause](http://kai.sub.blue)
 * :notebook: [Work by Tom Beddard](http://sub.blue)
+* :notebook: [Thomas MacWright](https://macwright.org)
 
 #### formatters, converters, generators
 
