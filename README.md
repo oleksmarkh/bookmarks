@@ -190,6 +190,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### JS
 
 * ECMAScript
+  * :books: [Eloquent JavaScript](https://eloquentjavascript.net) by Marijn Haverbeke
   * :notebook: [2ality – JavaScript and more](http://2ality.com) by Axel Rauschmayer
   * :notebook: [V8 JavaScript Engine - blog](https://v8project.blogspot.de)
   * :memo: [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
