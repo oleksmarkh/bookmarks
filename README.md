@@ -144,6 +144,11 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * JS
   * :memo: [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
   * :link: [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) [![Awesome][awesome-image]][awesome-url]
+* Elm
+  * :blue_book: [Documentation](https://elm-lang.org/docs)
+  * :blue_book: [Official Guide](https://guide.elm-lang.org)
+  * :notebook: [Blog](https://elm-lang.org/blog)
+  * :speech_balloon: [Elm Discourse](https://discourse.elm-lang.org)
 
 #### Unix
 
@@ -278,6 +283,7 @@ Legend (categories):
 * :radio: - podcast
 * :newspaper: - media
 * :link: - catalog, digest
+* :speech_balloon: - community forum
 * :eyeglasses: - style guide
 * :wrench: - tool (lib/framework)
 * :star: - favorite
