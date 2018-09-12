@@ -213,7 +213,9 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) 
   * :blue_book: [Node.js API](https://nodejs.org/api)
   * :link: [NodeCloud - Node.js resources](https://www.nodecloud.org)
   * :link: [Node Weekly - news and articles](https://nodeweekly.com/issues)
-  * :wrench: [ndb - debugging with Chrome DevTools](https://github.com/GoogleChromeLabs/ndb)
+  * debugging
+    * :memo: [Chrome DevTools - Debugging Node.js Application Using ndb](https://nitayneeman.com/posts/debugging-nodejs-application-in-chrome-devtools-using-ndb) (Nitay Neeman's blog, 10.09.2018)
+    * :wrench: [ndb - debugging with Chrome DevTools](https://github.com/GoogleChromeLabs/ndb)
 * extensions
   * :blue_book: [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
   * :blue_book: [Extensions - MDN](https://developer.mozilla.org/en/docs/Extensions)
