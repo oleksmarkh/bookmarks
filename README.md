@@ -271,6 +271,10 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) 
 * :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
 * :wrench: [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
 
+#### misc
+
+* :link: :wrench: [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
+
 ## Notes
 
 Legend (categories):
