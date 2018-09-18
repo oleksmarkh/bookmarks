@@ -271,8 +271,9 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) 
 * :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
 * :wrench: [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
 
-#### misc
+#### collections (misc)
 
+* :link: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization](https://carto.com/blog/twitter-guide-2018)
 * :link: :wrench: [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 
 ## Notes
