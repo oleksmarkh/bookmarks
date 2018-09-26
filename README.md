@@ -270,6 +270,7 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) 
 * :wrench: [Free Online XML Formatter - FreeFormatter.com](https://www.freeformatter.com/xml-formatter.html)
 * :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
 * :wrench: [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
+* :wrench: [ExtendsClass - Free Online XML Formatter](https://extendsclass.com/xml-formatter-online.html)
 
 #### collections (misc)
 
