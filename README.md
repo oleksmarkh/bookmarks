@@ -265,11 +265,16 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) 
 
 #### formatters, converters, generators
 
-* :wrench: [Online JSON Viewer](http://jsonviewer.stack.hu)
-* :wrench: [JSON Generator](https://next.json-generator.com)
-* :wrench: [Free Online XML Formatter - FreeFormatter.com](https://www.freeformatter.com/xml-formatter.html)
-* :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
-* :wrench: [TinyPNG/TinyJPG – PNG and JPEG compression](https://tinypng.com)
+* JSON
+  * :wrench: [Online JSON Viewer](http://jsonviewer.stack.hu)
+  * :wrench: [JSON Generator](https://next.json-generator.com)
+* XML
+  * :wrench: [Free Online XML Formatter - FreeFormatter.com](https://www.freeformatter.com/xml-formatter.html)
+  * :wrench: [ExtendsClass - Free Online XML Formatter](https://extendsclass.com/xml-formatter-online.html)
+* images
+  * :wrench: [TinyPNG/TinyJPG - PNG and JPEG compression](https://tinypng.com)
+* misc
+  * :wrench: [CloudConvert - convert anything to anything](https://cloudconvert.org)
 
 #### collections (misc)
 
