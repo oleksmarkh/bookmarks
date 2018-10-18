@@ -257,6 +257,10 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html) 
 * :books: [Fundamentals of Data Visualization](http://serialmentor.com/dataviz)
 * :wrench: [d3 Wiki](https://github.com/mbostock/d3/wiki)
 
+#### rendering
+
+* :books: [Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org) by Matt Pharr, Wenzel Jakob, and Greg Humphreys, 2004-2018
+
 #### creative development and other topics
 
 * :notebook: [Kai Krause](http://kai.sub.blue)
