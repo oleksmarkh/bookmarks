@@ -112,7 +112,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :books: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * :memo: [Design Patterns](https://sourcemaking.com/design_patterns)
-* :scroll: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey :star:
+* :scroll: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey, 20.10.2011 :star:
 * game programming
   * :books: [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html), Bob Nystrom
   * :link: [A study path for game programmer](https://github.com/miloyip/game-programmer), Milo Yip, 2017
@@ -265,6 +265,7 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
 
 #### creative development and other topics
 
+* :notebook: [Paul Graham](http://paulgraham.com/articles.html), especially :memo: [Life is short](http://paulgraham.com/vb.html), 01.2016 :star:
 * :notebook: [Kai Krause](http://kai.sub.blue)
 * :notebook: [Work by Tom Beddard](http://sub.blue)
 * :notebook: [Thomas MacWright](https://macwright.org)
@@ -294,7 +295,7 @@ Legend (categories):
 * :blue_book: - docs
 * :books: - book
 * :notebook: - blog
-* :memo: - blog post, tutorial, guide
+* :memo: - essay, blog post, tutorial, guide
 * :microphone: - conference, meetup
 * :scroll: - presentation
 * :movie_camera: - video
