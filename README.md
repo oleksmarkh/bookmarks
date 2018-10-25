@@ -202,6 +202,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * TypeScript
   * :blue_book: [Documentation](https://www.typescriptlang.org/docs/home.html)
   * :memo: [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html), Axel Rauschmayer, 08.04.2018
+  * :memo: [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 * ReasonML
   * :blue_book: [Documentation](https://reasonml.github.io/docs/en/what-and-why)
   * :books: [Exploring ReasonML
