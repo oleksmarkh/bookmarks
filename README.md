@@ -271,6 +271,7 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
 * :notebook: [Kai Krause](http://kai.sub.blue)
 * :notebook: [Work by Tom Beddard](http://sub.blue)
 * :notebook: [Thomas MacWright](https://macwright.org)
+* :notebook: [Adrian Holovaty](http://www.holovaty.com)
 
 #### formatters, converters, generators
 
@@ -296,7 +297,7 @@ Legend (categories):
 
 * :blue_book: - docs
 * :books: - book
-* :notebook: - blog
+* :notebook: - blog, personal website
 * :memo: - essay, blog post, tutorial, guide
 * :microphone: - conference, meetup
 * :scroll: - presentation
