@@ -260,10 +260,11 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
 * :books: [Fundamentals of Data Visualization](http://serialmentor.com/dataviz)
 * :wrench: [d3 Wiki](https://github.com/mbostock/d3/wiki)
 
-#### rendering
+#### rendering, geometry
 
 * :books: [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org), Matt Pharr, Wenzel Jakob, and Greg Humphreys, 2004-2018
 * :memo: [Learn OpenGL: Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
+* :notebook: [0 FPS](https://0fps.net), Mikola Lysenko
 
 #### creative development and other topics
 
