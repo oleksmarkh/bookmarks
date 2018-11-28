@@ -150,7 +150,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :notebook: [Blog](https://elm-lang.org/blog)
   * :speech_balloon: [Elm Discourse](https://discourse.elm-lang.org)
 
-#### Unix
+#### Unix and tooling
 
 * :blue_book: [Gerrit Code Review for Git](https://gerrit-review.googlesource.com/Documentation)
 * :books: [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
@@ -160,6 +160,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :memo: [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
 * :memo: [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
 * :memo: [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
+* :wrench: [`dive` - A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
 
 #### HTTP
 
