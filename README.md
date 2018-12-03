@@ -147,6 +147,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * Elm
   * :blue_book: [Documentation](https://elm-lang.org/docs)
   * :blue_book: [Official Guide](https://guide.elm-lang.org)
+  * :books: [Practical Elm for a Busy Developer](https://korban.net/elm/book), Alex Korban
   * :notebook: [Blog](https://elm-lang.org/blog)
   * :speech_balloon: [Elm Discourse](https://discourse.elm-lang.org)
 
