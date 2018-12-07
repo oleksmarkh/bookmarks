@@ -177,6 +177,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :scroll: [Rapid schema development with PostgreSQL](https://speakerdeck.com/andrewgodwin/rapid-schema-development-with-postgresql)
 * :blue_book: [Redis - Command reference](https://redis.io/commands)
 * :blue_book: [Memcached Wiki](https://github.com/memcached/memcached/wiki)
+* :memo: [Quick SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
 * :link: [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](http://db-engines.com/en)
 
 #### RegEx
@@ -230,8 +231,10 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
 * :wrench: Google Closure Library
   * :blue_book: [Closure  API Docs](https://google.github.io/closure-library/api)
   * :memo: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
-* :wrench: Jasmine
-  * :blue_book: [API Docs](https://jasmine.github.io/api/edge/global)
+* testing
+  * :memo: [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
+  * :wrench: Jasmine
+    * :blue_book: [API Docs](https://jasmine.github.io/api/edge/global)
 * :memo: [The Service Worker Cookbook (from Mozilla)](https://serviceworke.rs)
 * :memo: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
