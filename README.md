@@ -233,8 +233,11 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
   * :memo: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * testing
   * :memo: [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
-  * :wrench: Jasmine
-    * :blue_book: [API Docs](https://jasmine.github.io/api/edge/global)
+  * :wrench: [Jasmine](https://jasmine.github.io/api/edge/global): test framework + asserts + spies
+  * :wrench: [Mocha](https://mochajs.org/#table-of-contents): test framework
+  * :wrench: [Chai](https://www.chaijs.com/api/bdd): asserts
+  * :wrench: [Sinon.JS](https://sinonjs.org/releases/latest): spies, stubs and mocks
+  * :wrench: [Karma](https://karma-runner.github.io/latest/index.html): test runner
 * :memo: [The Service Worker Cookbook (from Mozilla)](https://serviceworke.rs)
 * :memo: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
