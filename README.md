@@ -194,6 +194,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :memo: [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
 * :memo: [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
 * :link: [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome][awesome-image]][awesome-url]
+* :wrench: [Secure headers and cookies for Python web frameworks](https://github.com/cakinney/secure)
 
 #### JS
 
@@ -285,11 +286,11 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
 #### formatters, converters, generators
 
 * JSON
-  * :wrench: [Online JSON Viewer](http://jsonviewer.stack.hu)
+  * :wrench: [JSON Viewer](http://jsonviewer.stack.hu)
   * :wrench: [JSON Generator](https://next.json-generator.com)
 * XML
-  * :wrench: [Free Online XML Formatter - FreeFormatter.com](https://www.freeformatter.com/xml-formatter.html)
-  * :wrench: [ExtendsClass - Free Online XML Formatter](https://extendsclass.com/xml-formatter-online.html)
+  * :wrench: [FreeFormatter](https://www.freeformatter.com/xml-formatter.html)
+  * :wrench: [ExtendsClass](https://extendsclass.com/xml-formatter-online.html)
 * images
   * :wrench: [TinyPNG/TinyJPG - PNG and JPEG compression](https://tinypng.com)
 * misc
