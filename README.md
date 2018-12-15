@@ -235,6 +235,7 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
   * :memo: [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * testing
   * :memo: [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
+  * :wrench: [Jest](https://jestjs.io/docs/en/expect): test framework + asserts + spies
   * :wrench: [Jasmine](https://jasmine.github.io/api/edge/global): test framework + asserts + spies
   * :wrench: [Mocha](https://mochajs.org/#table-of-contents): test framework
   * :wrench: [Chai](https://www.chaijs.com/api/bdd): asserts
