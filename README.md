@@ -103,6 +103,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 ### programming
 
+#### math
+
+* :books: [A Programmer's Introduction to Mathematics](https://pimbook.org), Jeremy Kun, 2018
+
 #### algorithms, data structures, other interview topics
 
 * :memo: [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
