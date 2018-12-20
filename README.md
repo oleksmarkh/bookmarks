@@ -201,6 +201,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :link: [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome][awesome-image]][awesome-url]
 * :wrench: [Secure headers and cookies for Python web frameworks](https://github.com/cakinney/secure)
 * :wrench: [Loguru - Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
+* :wrench: [ptpython - a better Python REPL](https://github.com/prompt-toolkit/ptpython)
 
 #### JS
 
