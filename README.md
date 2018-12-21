@@ -112,6 +112,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :memo: [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 * :link: [LeetCode Articles](https://leetcode.com/articles)
 * :link: [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* :speech_balloon: [Exercism - Code practice and mentorship for everyone](https://exercism.io)
 
 #### architecture/design
 
