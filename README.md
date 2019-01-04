@@ -110,6 +110,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### algorithms, data structures, other interview topics
 
 * :memo: [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+* :memo: [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * :link: [LeetCode Articles](https://leetcode.com/articles)
 * :link: [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * :speech_balloon: [Exercism - Code practice and mentorship for everyone](https://exercism.io)
