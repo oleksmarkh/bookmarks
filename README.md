@@ -107,6 +107,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :books: [A Programmer's Introduction to Mathematics](https://pimbook.org), Jeremy Kun, 2018
 
+#### interpreters
+
+* :books: [Crafting Interpreters - A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html), Bob Nystrom
+
 #### algorithms, data structures, other interview topics
 
 * :memo: [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
