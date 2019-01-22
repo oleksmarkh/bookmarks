@@ -254,6 +254,7 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
   * :wrench: [Chai](https://www.chaijs.com/api/bdd): asserts
   * :wrench: [Sinon.JS](https://sinonjs.org/releases/latest): spies, stubs, mocks
   * :wrench: [Enzyme](https://airbnb.io/enzyme/docs/api): rendering, manipulation, asserts (for React components)
+  * :wrench: [Storybook](https://github.com/storybooks/storybook): dev environment for UI components (different frameworks)
 * :memo: [The Service Worker Cookbook (from Mozilla)](https://serviceworke.rs)
 * :memo: [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * :radio: [egghead.io developer chats](https://egghead.simplecast.fm)
