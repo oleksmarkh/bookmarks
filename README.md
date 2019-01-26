@@ -148,8 +148,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * :memo: [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 * ReasonML
   * :blue_book: [Documentation](https://reasonml.github.io/docs/en/what-and-why)
-  * :books: [Exploring ReasonML
-and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html), Axel Rauschmayer
+  * :books: [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html), Axel Rauschmayer
   * :memo: [JavaScript vs. TypeScript vs. ReasonML](http://2ality.com/2018/03/javascript-typescript-reasonml.html), Axel Rauschmayer, 18.03.2018
   * :link: [Weekly Reason Newsletter](https://reasonml.online/#archive)
   * :link: [redex - Reason Package Index](https://redex.github.io)
@@ -198,6 +197,10 @@ and functional programming](http://reasonmlhub.com/exploring-reasonml/toc.html),
 * :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * :wrench: [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
 * :wrench: [Unicode character table](https://unicode-table.com/en)
+
+#### mobile web
+
+* :link: [Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development) [![Awesome][awesome-image]][awesome-url]
 
 #### GIS
 
