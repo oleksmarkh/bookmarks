@@ -191,7 +191,8 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### layout, CSS
 
 * :memo: [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
-* :memo: [A Complete Guide to Flexbox - CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* :memo: [CSS-Tricks: A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* :memo: [CSS-Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid)
 * :memo: [How to Center in CSS](http://howtocenterincss.com)
 * :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
