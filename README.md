@@ -104,7 +104,9 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :blue_book: [HTTP caching - Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * :books: [High Performance Browser Networking](https://hpbn.co), Ilya Grigorik
-* :memo: [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices), Jake Archibald
+* :memo: [Why trailing slashes on URIs are important](https://cdivilly.wordpress.com/2014/03/11/why-trailing-slashes-on-uris-are-important)
+* :eyeglasses: [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices), Jake Archibald
+* :eyeglasses: [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)
 
 #### DB
 
@@ -262,7 +264,7 @@ Legend (categories):
 * :newspaper: - media
 * :link: - catalog, digest
 * :speech_balloon: - community forum
-* :eyeglasses: - style guide
+* :eyeglasses: - style guide, best practices
 * :wrench: - tool (lib/framework)
 * :star: - favorite
 
