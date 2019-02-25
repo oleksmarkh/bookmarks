@@ -22,6 +22,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University (intermediate)
 * [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms), Princeton University (advanced)
 
+### product-related things
+
+* :link: [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
+
 ### design
 
 * :books: [Designing for the Web](https://www.designingfortheweb.co.uk)
