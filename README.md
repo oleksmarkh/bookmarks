@@ -30,6 +30,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * :books: [Designing for the Web](https://www.designingfortheweb.co.uk)
 * :memo: [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
+* :link: [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) [![Awesome][awesome-image]][awesome-url]
 
 ### programming
 
@@ -201,6 +202,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * :memo: [CSS-Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid)
 * :memo: [How to Center in CSS](http://howtocenterincss.com)
 * :link: [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
+* :link: [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) [![Awesome][awesome-image]][awesome-url]
 * :wrench: [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * :wrench: [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
 * :wrench: [Unicode character table](https://unicode-table.com/en)
