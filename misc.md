@@ -4,18 +4,18 @@
 
 #### literature
 
-* :link: [УКРЛІТ.ORG](http://ukrlit.org)
-* :notebook: [Наш формат](https://nashformat.ua/blog)
-* :newspaper: [Читомо](http://www.chytomo.com)
-* :newspaper: [ЛітАкцент](http://litakcent.com)
+* 🔗 [УКРЛІТ.ORG](http://ukrlit.org)
+* 📓 [Наш формат](https://nashformat.ua/blog)
+* 📰 [Читомо](http://www.chytomo.com)
+* 📰 [ЛітАкцент](http://litakcent.com)
 
 #### programming
 
-* :link: [The Pragmatic Bookshelf](https://pragprog.com)
+* 🔗 [The Pragmatic Bookshelf](https://pragprog.com)
 
 ### music studies
 
-* :link: [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
+* 🔗 [Bass Guitar Scale Page](http://www.angelfire.com/id/bass)
 
 ### media
 
@@ -23,42 +23,42 @@
 
 ##### news
 
-* :newspaper: [KyivPost](https://www.kyivpost.com) (en)
-* :newspaper: [Zbruč](https://zbruc.eu)
-* :newspaper: [тексти.org.ua](http://texty.org.ua)
-* :newspaper: [Заборона](https://zaborona.com)
-* :newspaper: [The Village](http://www.the-village.com.ua)
-* :newspaper: [platfor.ma](https://platfor.ma)
-* :newspaper: [БЖ](https://bzh.life) (Kyiv/Odessa/Lviv)
-* :newspaper: [comma](http://comma.com.ua) (music)
-* :newspaper: [Telegraf](http://telegraf.design) (design)
+* 📰 [KyivPost](https://www.kyivpost.com) (en)
+* 📰 [Zbruč](https://zbruc.eu)
+* 📰 [тексти.org.ua](http://texty.org.ua)
+* 📰 [Заборона](https://zaborona.com)
+* 📰 [The Village](http://www.the-village.com.ua)
+* 📰 [platfor.ma](https://platfor.ma)
+* 📰 [БЖ](https://bzh.life) (Kyiv/Odessa/Lviv)
+* 📰 [comma](http://comma.com.ua) (music)
+* 📰 [Telegraf](http://telegraf.design) (design)
 
 ##### stories
 
-* :newspaper: [Ukraїner](http://ukrainer.net/uk)
-* :newspaper: [Korydor](http://www.korydor.in.ua/ua)
-* :newspaper: [WAS](https://was.media)
+* 📰 [Ukraїner](http://ukrainer.net/uk)
+* 📰 [Korydor](http://www.korydor.in.ua/ua)
+* 📰 [WAS](https://was.media)
 
 #### Belarus 🇧🇾
 
-* :newspaper: [34mag](https://34mag.net)
+* 📰 [34mag](https://34mag.net)
 
 ### sports
 
-#### running :runner:
+#### running 🏃
 
-* :notebook: [Ногибоги](https://nogibogi.com)
-* :newspaper: [Tracksmith journal (Meter magazine)](https://journal.tracksmith.com)
+* 📓 [Ногибоги](https://nogibogi.com)
+* 📰 [Tracksmith journal (Meter magazine)](https://journal.tracksmith.com)
 
-#### biking :bicyclist:
+#### biking 🚴
 
-* :notebook: [InSearchOfSvet](https://www.insearchofsvet.com)
-* :notebook: [CoupleOfClimbs](https://www.coupleofclimbs.com)
+* 📓 [InSearchOfSvet](https://www.insearchofsvet.com)
+* 📓 [CoupleOfClimbs](https://www.coupleofclimbs.com)
 
 ### drawing
 
-* [Rebexi (Rebecca)](http://www.rebexi.com/blog)
-* [Garage canshop](http://canshop.com.ua/blog)
+* 📓 [Rebexi (Rebecca)](http://www.rebexi.com/blog)
+* 📓 [Garage canshop](http://canshop.com.ua/blog)
 
 ### languages 🌐
 
