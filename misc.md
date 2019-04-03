@@ -29,15 +29,24 @@
 * 📰 [Заборона](https://zaborona.com)
 * 📰 [The Village](http://www.the-village.com.ua)
 * 📰 [platfor.ma](https://platfor.ma)
+* 📰 [Хмарочос](https://hmarochos.kiev.ua) (Kyiv)
 * 📰 [БЖ](https://bzh.life) (Kyiv/Odessa/Lviv)
-* 📰 [comma](http://comma.com.ua) (music)
-* 📰 [Telegraf](http://telegraf.design) (design)
 
 ##### stories
 
 * 📰 [Ukraїner](http://ukrainer.net/uk)
 * 📰 [Korydor](http://www.korydor.in.ua/ua)
 * 📰 [WAS](https://was.media)
+
+##### music 🎧
+
+* 📰 [comma](https://comma.com.ua)
+* 📰 [Neformat](https://www.neformat.com.ua)
+* 📰 [Слух](http://slukh.media/)
+
+##### design 🎨
+
+* 📰 [Telegraf](https://telegraf.design)
 
 #### Belarus 🇧🇾
 
@@ -57,7 +66,7 @@
 
 ### drawing
 
-* 📓 [Rebexi (Rebecca)](http://www.rebexi.com/blog)
+* 📓 [Rebexi (Rebecca Conrad)](http://www.rebexi.com/blog)
 * 📓 [Garage canshop](http://canshop.com.ua/blog)
 
 ### languages 🌐
