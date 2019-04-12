@@ -141,6 +141,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * 📝 [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
 * 📝 [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
 * 🔗 [Awesome Python](https://github.com/vinta/awesome-python) [![Awesome][awesome-image]][awesome-url]
+* 👓 [A collection of surprising Python snippets and lesser-known features](https://github.com/satwikkansal/wtfpython)
 * 🔧 [Secure headers and cookies for Python web frameworks](https://github.com/cakinney/secure)
 * 🔧 [Loguru - Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
 * 🔧 [ptpython - a better Python REPL](https://github.com/prompt-toolkit/ptpython)
