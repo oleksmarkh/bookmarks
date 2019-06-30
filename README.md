@@ -22,7 +22,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University (intermediate)
 * [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms), Princeton University (advanced)
 
-### product-related things
+### product growth
 
 * 🔗 [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
@@ -34,22 +34,6 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 ### programming
 
-#### math
-
-* 📚 [A Programmer's Introduction to Mathematics](https://pimbook.org), Jeremy Kun, 2018
-
-#### interpreters
-
-* 📚 [Crafting Interpreters - A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html), Bob Nystrom
-
-#### algorithms, data structures, other interview topics
-
-* 📝 [Data Structures for Coding Interviews: Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
-* 📝 [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
-* 🔗 [LeetCode Articles](https://leetcode.com/articles)
-* 🔗 [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-* 💬 [Exercism - Code practice and mentorship for everyone](https://exercism.io)
-
 #### architecture/design
 
 * game programming
@@ -60,8 +44,19 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * 📚 [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript), Addy Osmani
 * misc
   * 📚 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+  * 📓 [Martin Fowler: Software Design](https://martinfowler.com/design.html)
   * 📝 [Design Patterns](https://sourcemaking.com/design_patterns)
+  * 📝 [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
   * 📜 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey, 20.10.2011 ⭐️
+
+#### algorithms, data structures
+
+* 📚 [A Programmer's Introduction to Mathematics](https://pimbook.org), Jeremy Kun, 2018
+* 📝 [Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+
+#### interpreters
+
+* 📚 [Crafting Interpreters - A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html), Bob Nystrom
 
 #### FP
 
