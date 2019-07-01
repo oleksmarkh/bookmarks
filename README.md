@@ -100,7 +100,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * 📝 [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
 * 📝 [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
 * 📝 [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
-* 🔧 [`dive` - A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
+* Docker
+  * 📘 [Official docs - Docker overview](https://docs.docker.com/engine/docker-overview)
+  * 🔧 [`dive` - A tool for exploring each layer in a Docker image](https://github.com/wagoodman/dive)
+  * 🔧 [Lazydocker - The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
 
 #### HTTP
 
