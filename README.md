@@ -219,6 +219,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * 📘 [The GeoJSON Format (RFC)](https://tools.ietf.org/html/rfc7946)
 * 📝 [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html), Tom MacWright, 23.03.2015
+* 📰 [Spatial Awareness newsletter](https://www.getrevue.co/profile/maps), Robin Hawkes
 * 🔧 [geojson.io](http://geojson.io), [geojson.net](https://geojson.net)
 
 #### data visualization
@@ -271,7 +272,7 @@ Legend (categories):
 * 📜 - presentation
 * 🎥 - video
 * 📻 - podcast
-* 📰 - media
+* 📰 - media, newsletter
 * 🔗 - catalog, digest
 * 💬 - community forum
 * 👓 - style guide, best practices
