@@ -96,10 +96,13 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * 📚 [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
 * 📓 [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix), Bruce Barnett
 * 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-* 📝 [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
-* 📝 [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
-* 📝 [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
 * 📝 [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
+* command line
+  * 📚 [Data Science at the Command Line](https://www.datascienceatthecommandline.com), Jeroen Janssens
+  * 📝 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  * 📝 [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
+  * 📝 [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
+  * 📝 [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
 * Docker
   * 📘 [Official docs - Docker overview](https://docs.docker.com/engine/docker-overview)
   * 🔧 [`dive` - A tool for exploring each layer in a Docker image](https://github.com/wagoodman/dive)
@@ -215,6 +218,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 * 🔗 [Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development) [![Awesome][awesome-image]][awesome-url]
 
+#### accessibility
+
+* 💬 [The A11Y Project - A community-driven effort to make web accessibility easier](https://a11yproject.com)
+
 #### GIS
 
 * 📘 [The GeoJSON Format (RFC)](https://tools.ietf.org/html/rfc7946)
@@ -233,6 +240,8 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * 📚 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org), Matt Pharr, Wenzel Jakob, and Greg Humphreys, 2004-2018
 * 📝 [Learn OpenGL: Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
 * 📓 [0 FPS](https://0fps.net), Mikola Lysenko
+* 🔧 [regl - Functional WebGL](https://github.com/regl-project/regl)
+* 🔧 [O-GL - Minimal WebGL framework](https://github.com/oframe/ogl)
 
 #### creative development and other topics
 
