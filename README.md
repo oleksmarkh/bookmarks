@@ -48,6 +48,9 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * 📝 [Design Patterns](https://sourcemaking.com/design_patterns)
   * 📝 [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
   * 📜 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey, 20.10.2011 ⭐️
+  * 👓 [The Twelve-Factor App - a methodology for building SASS apps](https://12factor.net)
+  * 👓 [Keep a Changelog](https://keepachangelog.com)
+  * 👓 [Choose an open source license](https://choosealicense.com)
 
 #### algorithms, data structures
 
@@ -92,11 +95,6 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 #### Unix and tooling
 
-* 📘 [Gerrit Code Review for Git](https://gerrit-review.googlesource.com/Documentation)
-* 📚 [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
-* 📓 [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix), Bruce Barnett
-* 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-* 📝 [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
 * command line
   * 📚 [Data Science at the Command Line](https://www.datascienceatthecommandline.com), Jeroen Janssens
   * 📝 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
@@ -107,6 +105,12 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * 📘 [Official docs - Docker overview](https://docs.docker.com/engine/docker-overview)
   * 🔧 [`dive` - A tool for exploring each layer in a Docker image](https://github.com/wagoodman/dive)
   * 🔧 [Lazydocker - The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
+* misc
+  * 📘 [Gerrit Code Review for Git](https://gerrit-review.googlesource.com/Documentation)
+  * 📚 [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
+  * 📓 [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix), Bruce Barnett
+  * 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+  * 📝 [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
 
 #### HTTP
 
