@@ -229,8 +229,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### GIS
 
 * 📘 [The GeoJSON Format (RFC)](https://tools.ietf.org/html/rfc7946)
+* 📝 [mapschool - a free introduction to geo](https://mapschool.io)
 * 📝 [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html), Tom MacWright, 23.03.2015
 * 📰 [Spatial Awareness newsletter](https://www.getrevue.co/profile/maps), Robin Hawkes
+* 🔗 [Free GIS Datasets](http://freegisdata.rtwilson.com)
 * 🔧 [geojson.io](http://geojson.io), [geojson.net](https://geojson.net)
 
 #### data visualization
