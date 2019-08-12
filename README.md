@@ -71,6 +71,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * 📘 [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
   * 📚 [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com), Doug Hoyte
   * 📚 [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
+  * 📝 [Programming Algorithms: Data Structures](http://lisp-univ-etc.blogspot.com/2019/08/programming-algorithms-data-structures.html), Vsevolod Dyomkin, 05.08.2019
 * Closure
   * 📚 [Clojure for the Brave and True, an online Book for Beginners](https://www.braveclojure.com)
   * 👓 [A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
@@ -201,6 +202,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * misc
   * 📝 [The Service Worker Cookbook (from Mozilla)](https://serviceworke.rs)
   * 📝 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+  * 📝 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71), Milica Mihajlija, 14.08.2018
   * 📻 [egghead.io podcast about software development](https://egghead.io/podcasts)
   * 🔗 [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
   * 🔗 [Web Browser Eng](https://webbrowsereng.topicdeck.com)
@@ -230,8 +232,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 #### GIS
 
 * 📘 [The GeoJSON Format (RFC)](https://tools.ietf.org/html/rfc7946)
+* 📚 [Introduction to GIS - a free book by Víctor Olaya](https://volaya.github.io/gis-book/en/index.html)
 * 📝 [mapschool - a free introduction to geo](https://mapschool.io)
 * 📝 [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html), Tom MacWright, 23.03.2015
+* 📝 [A dive into spatial search algorithms](https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a), Vladimir Agafonkin, 27.04.2017
 * 📰 [Spatial Awareness newsletter](https://www.getrevue.co/profile/maps), Robin Hawkes
 * 🔗 [Free GIS Datasets](http://freegisdata.rtwilson.com)
 * 🔧 [geojson.io](http://geojson.io), [geojson.net](https://geojson.net)
