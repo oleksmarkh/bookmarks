@@ -82,11 +82,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * 📝 [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
   * 🔗 [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) [![Awesome][awesome-image]][awesome-url]
 * Elm
-  * 📘 [Documentation](https://elm-lang.org/docs)
-  * 📘 [Official Guide](https://guide.elm-lang.org)
+  * 📘 [Docs](https://elm-lang.org/docs), 📘 [Guide](https://guide.elm-lang.org), 📓 [Blog](https://elm-lang.org/blog)
   * 📚 [Practical Elm for a Busy Developer](https://korban.net/elm/book), Alex Korban
-  * 📓 [Blog](https://elm-lang.org/blog)
   * 💬 [Elm Discourse](https://discourse.elm-lang.org)
+  * 🔧 [WebGL for Elm](https://github.com/elm-explorations/webgl)
 * misc
   * 📚 [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
   * 📚 [The HoTT Book - Homotopy Type Theory](https://homotopytypetheory.org/book)
@@ -248,6 +247,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 #### rendering, geometry
 
+* 📚 [The Book of Shaders](https://thebookofshaders.com), Patricio Gonzalez Vivo and Jen Lowe, 2015
 * 📚 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org), Matt Pharr, Wenzel Jakob, and Greg Humphreys, 2004-2018
 * 📝 [Learn OpenGL: Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
 * 📓 [0 FPS](https://0fps.net), Mikola Lysenko
