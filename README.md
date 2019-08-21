@@ -24,6 +24,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 
 ### product growth
 
+* 📰 [Stacking the Bricks](https://stackingthebricks.com)
 * 🔗 [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
 ### design
