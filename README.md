@@ -183,6 +183,7 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * SVG
   * 📚 [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
   * 📝 [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
+  * 📝 ["Animating SVG with CSS"](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/), Hope Armstrong, 04.04.2019
   * 🔧 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg)
   * 🔧 [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
   * 🔧 [GSAP (GreenSock Animation Platform) - CSS properties, SVG, canvas libraries, custom properties](https://github.com/greensock/GreenSock-JS)
