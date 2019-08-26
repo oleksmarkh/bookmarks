@@ -3,6 +3,7 @@
   [![license][license-image]][license-url]
 
 Links, collected and grouped in [Markdown](https://guides.github.com/features/mastering-markdown) format.
+See the legend (all those icons) at the end of the list.
 
 ## Topics
 
@@ -201,9 +202,10 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
   * 🔧 [Enzyme](https://airbnb.io/enzyme/docs/api): rendering, manipulation, asserts (for React components)
   * 🔧 [Storybook](https://github.com/storybooks/storybook): dev environment for UI components (different frameworks)
 * misc
-  * 📝 [The Service Worker Cookbook (from Mozilla)](https://serviceworke.rs)
+  * 📝 [The Service Worker Cookbook](https://serviceworke.rs), Mozilla
   * 📝 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
   * 📝 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71), Milica Mihajlija, 14.08.2018
+  * 📝 [Robust arithmetic in JavaScript](https://github.com/mikolalysenko/robust-arithmetic-notes), Mikola Lysenko
   * 📻 [egghead.io podcast about software development](https://egghead.io/podcasts)
   * 🔗 [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
   * 🔗 [Web Browser Eng](https://webbrowsereng.topicdeck.com)
@@ -282,9 +284,9 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 * 🔗 [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization](https://carto.com/blog/twitter-guide-2018)
 * 🔗 🔧 [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 
-## Notes
+## Legend
 
-Legend (categories):
+Categories:
 
 * 📘 - docs
 * 📚 - book
@@ -300,8 +302,6 @@ Legend (categories):
 * 👓 - style guide, best practices
 * 🔧 - tool (lib/framework)
 * ⭐️ - favorite
-
-Inspired by [bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md).
 
 [license-image]: https://img.shields.io/github/license/oleksmarkh/bookmarks.svg?style=flat-square
 [license-url]: https://github.com/oleksmarkh/bookmarks/blob/master/LICENSE
