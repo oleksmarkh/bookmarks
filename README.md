@@ -193,6 +193,7 @@ See the legend (all those icons) at the end of the list.
   * 📝 [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * testing
   * 📝 [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
+  * 🔧 [Tape](https://github.com/substack/tape): minimalistic framework, asserts
   * 🔧 [Jest](https://jestjs.io/docs/en/expect): framework, asserts, spies
   * 🔧 [Jasmine](https://jasmine.github.io/api/edge/global): framework, asserts, spies
   * 🔧 [Karma](https://karma-runner.github.io/latest/index.html): runner
