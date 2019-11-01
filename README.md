@@ -28,11 +28,12 @@ See the legend (all those icons) at the end of the list.
 * 📰 [Stacking the Bricks](https://stackingthebricks.com)
 * 🔗 [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
-### design
+### art and design
 
 * 📚 [Designing for the Web](https://www.designingfortheweb.co.uk)
 * 📝 [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
 * 🔗 [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) [![Awesome][awesome-image]][awesome-url]
+* 🔗 🔧 [Lospec - digitally restrictive art (tools and resources)](https://lospec.com)
 
 ### programming
 
@@ -259,7 +260,7 @@ See the legend (all those icons) at the end of the list.
 * 🔧 [regl - Functional WebGL](https://github.com/regl-project/regl)
 * 🔧 [O-GL - Minimal WebGL framework](https://github.com/oframe/ogl)
 
-#### creative development and other topics
+#### personal sites
 
 * 📓 [Paul Graham](http://paulgraham.com/articles.html), especially 📝 [Life is short](http://paulgraham.com/vb.html), 01.2016 ⭐️
 * 📓 [Kai Krause](http://kai.sub.blue)
