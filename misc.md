@@ -40,7 +40,6 @@
 * 📓 [CoupleOfClimbs](https://www.coupleofclimbs.com)
 
 ### drawing 🎨
-* 📓 [Rebexi (Rebecca Conrad)](http://www.rebexi.com/blog)
 * 📓 [Garage canshop](http://canshop.com.ua/blog)
 
 ### languages 🌐

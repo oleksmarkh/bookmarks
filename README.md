@@ -56,14 +56,6 @@ See the legend at the end of the list.
   * 📚 [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com), Doug Hoyte
   * 📚 [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
   * 📝 [Programming Algorithms: Data Structures](http://lisp-univ-etc.blogspot.com/2019/08/programming-algorithms-data-structures.html), Vsevolod Dyomkin, 05.08.2019
-* Closure
-  * 📚 [Clojure for the Brave and True, an online Book for Beginners](https://www.braveclojure.com)
-  * 👓 [A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
-* Haskell
-  * 📚 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-  * 📚 [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html), Simon Marlow
-* JS
-  * 📝 [Thinking in Ramda: Getting Started](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started)
 * Elm
   * 📘 [Docs](https://elm-lang.org/docs), 📘 [Guide](https://guide.elm-lang.org), 📓 [Blog](https://elm-lang.org/blog)
   * 📚 [Practical Elm for a Busy Developer](https://korban.net/elm/book), Alex Korban
@@ -71,14 +63,13 @@ See the legend at the end of the list.
   * 🔧 [WebGL for Elm](https://github.com/elm-explorations/webgl)
 * misc
   * 📚 [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
-  * 📚 [The HoTT Book - Homotopy Type Theory](https://homotopytypetheory.org/book)
   * 📝 [Functional Programming For The Rest of Us](https://www.defmacro.org/2006/06/19/fp.html), Slava Akhmechet
-  * 🎤 [#kievfprog - Functional Programming Community Meetup in Kyiv](https://kievfprog.net)
   * 🔗 [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 
 #### Unix and tooling
 * command line
   * 📚 [Data Science at the Command Line](https://www.datascienceatthecommandline.com), Jeroen Janssens
+  * 📚 [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
   * 📝 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   * 📝 [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
   * 📝 [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
@@ -88,8 +79,6 @@ See the legend at the end of the list.
   * 🔧 [`dive` - A tool for exploring each layer in a Docker image](https://github.com/wagoodman/dive)
   * 🔧 [Lazydocker - The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
 * misc
-  * 📘 [Gerrit Code Review for Git](https://gerrit-review.googlesource.com/Documentation)
-  * 📚 [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
   * 📓 [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix), Bruce Barnett
   * 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
   * 📝 [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
@@ -99,11 +88,10 @@ See the legend at the end of the list.
 * 📚 [High Performance Browser Networking](https://hpbn.co), Ilya Grigorik
 * 📝 [Why trailing slashes on URIs are important](https://cdivilly.wordpress.com/2014/03/11/why-trailing-slashes-on-uris-are-important)
 * 👓 [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices), Jake Archibald
-* 👓 [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)
 
 #### DB
 * PostgreSQL
-  * 📘 [Documentation](https://www.postgresql.org/docs/current/static)
+  * 📘 [Documentation](https://www.postgresql.org/docs/current)
   * 📜 [Postgres: The Bits You Haven't Found](https://postgres-bits.herokuapp.com)
   * 📜 [Rapid schema development with PostgreSQL](https://speakerdeck.com/andrewgodwin/rapid-schema-development-with-postgresql)
 * misc
@@ -118,12 +106,14 @@ See the legend at the end of the list.
 
 #### Python
 * 📘 [The Python Language Reference](https://docs.python.org/3/reference)
-* 📚 [Learn Python the hard way](https://learnpythonthehardway.org/book)
 * 📚 [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest)
 * 📚 [Explore Flask](https://exploreflask.com/en/latest)
 * 📝 [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
 * 📝 [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
 * 👓 [A collection of surprising Python snippets and lesser-known features](https://github.com/satwikkansal/wtfpython)
+* 🔧 [pyenv - simple Python version management](https://github.com/pyenv/pyenv)
+* 🔧 [Poetry - Python packaging and dependency management](https://python-poetry.org)
+* 🔧 [SQLAlchemy - SQL toolkit and ORM](https://www.sqlalchemy.org)
 * 🔧 [Secure headers and cookies for Python web frameworks](https://github.com/cakinney/secure)
 * 🔧 [Loguru - Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
 * 🔧 [ptpython - a better Python REPL](https://github.com/prompt-toolkit/ptpython)
@@ -141,11 +131,8 @@ See the legend at the end of the list.
   * 📝 [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 * Node
   * 📘 [Node.js API](https://nodejs.org/api)
-  * 🔗 [NodeCloud - Node.js resources](https://www.nodecloud.org)
   * 🔗 [Node Weekly - news and articles](https://nodeweekly.com/issues)
-  * debugging
-    * 📝 [Chrome DevTools - Debugging Node.js Application Using ndb](https://nitayneeman.com/posts/debugging-nodejs-application-in-chrome-devtools-using-ndb), Nitay Neeman, 10.09.2018
-    * 🔧 [ndb - debugging with Chrome DevTools](https://github.com/GoogleChromeLabs/ndb)
+  * 🔧 [ndb - debugging with Chrome DevTools](https://github.com/GoogleChromeLabs/ndb)
 * extensions
   * 📘 [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
   * 📘 [Extensions - MDN](https://developer.mozilla.org/en/docs/Extensions)
@@ -155,7 +142,6 @@ See the legend at the end of the list.
   * 📝 ["Animating SVG with CSS"](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/), Hope Armstrong, 04.04.2019
   * 🔧 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg)
   * 🔧 [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
-  * 🔧 [GSAP (GreenSock Animation Platform) - CSS properties, SVG, canvas libraries, custom properties](https://github.com/greensock/GreenSock-JS)
 * Google Closure Library
   * 📘 [Closure  API Docs](https://google.github.io/closure-library/api)
   * 📝 [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
@@ -172,12 +158,8 @@ See the legend at the end of the list.
   * 🔧 [Storybook](https://github.com/storybooks/storybook): dev environment for UI components (different frameworks)
 * misc
   * 📝 [The Service Worker Cookbook](https://serviceworke.rs), Mozilla
-  * 📝 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
   * 📝 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71), Milica Mihajlija, 14.08.2018
   * 📝 [Robust arithmetic in JavaScript](https://github.com/mikolalysenko/robust-arithmetic-notes), Mikola Lysenko
-  * 🔗 [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
-  * 🔗 [Web Browser Eng](https://webbrowsereng.topicdeck.com)
-  * 🔗 [A collection of utility libraries](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
   * 🔧 [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
 #### layout, CSS
