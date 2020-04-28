@@ -13,7 +13,7 @@ See the legend at the end of the list.
 
 ### art and design
 * 📚 [Designing for the Web](https://www.designingfortheweb.co.uk)
-* 📝 [Atomic design](http://bradfrost.com/blog/post/atomic-web-design)
+* 📝 [Atomic design](https://bradfrost.com/blog/post/atomic-web-design)
 * 🎥 [Intro to the Design of Everyday Things: Principles of Design](https://eu.udacity.com/course/intro-to-the-design-of-everyday-things--design101) (beginner)
 * 📰 [Telegraf](https://telegraf.design)
 * 🔗 [Lospec - digitally restrictive art (tools and resources)](https://lospec.com)
@@ -27,7 +27,7 @@ See the legend at the end of the list.
   * 📚 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book), Addy Osmani
   * 📚 [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript), Addy Osmani
 * misc
-  * 📚 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+  * 📚 [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
   * 📓 [Martin Fowler: Software Design](https://martinfowler.com/design.html)
   * 📝 [Design Patterns](https://sourcemaking.com/design_patterns)
   * 📝 [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
@@ -44,18 +44,17 @@ See the legend at the end of the list.
 * 🎥 [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms), Princeton University (advanced)
 
 #### interpreters
-* 📚 [Crafting Interpreters - A handbook for making programming languages](http://www.craftinginterpreters.com/contents.html), Bob Nystrom
+* 📚 [Crafting Interpreters - A handbook for making programming languages](https://www.craftinginterpreters.com/contents.html), Bob Nystrom
 
 #### FP
 * SICP
-  * 📚 [the SICP Web Site](http://mitpress.mit.edu/sicp)
+  * 📚 [the SICP Web Site](https://mitpress.mit.edu/sicp)
   * 📚 [Welcome to SICP Distilled](http://www.sicpdistilled.com)
   * 🎥 [Lecture 1A - MIT 6.001 Structure and Interpretation, 1986 - YouTube](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLB745DA2483BEE9C4)
 * Lisp
-  * 📘 [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front)
-  * 📚 [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com), Doug Hoyte
+  * 📚 [Let Over Lambda - 50 Years of Lisp](https://letoverlambda.com), Doug Hoyte
   * 📚 [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
-  * 📝 [Programming Algorithms: Data Structures](http://lisp-univ-etc.blogspot.com/2019/08/programming-algorithms-data-structures.html), Vsevolod Dyomkin, 05.08.2019
+  * 📝 [Programming Algorithms: Data Structures](https://lisp-univ-etc.blogspot.com/2019/08/programming-algorithms-data-structures.html), Vsevolod Dyomkin, 05.08.2019 (from the 📚 [Programming Algorithms](https://leanpub.com/progalgs), 15.04.2020)
 * Elm
   * 📘 [Docs](https://elm-lang.org/docs), 📘 [Guide](https://guide.elm-lang.org), 📓 [Blog](https://elm-lang.org/blog)
   * 📚 [Practical Elm for a Busy Developer](https://korban.net/elm/book), Alex Korban
@@ -71,17 +70,16 @@ See the legend at the end of the list.
   * 📚 [Data Science at the Command Line](https://www.datascienceatthecommandline.com), Jeroen Janssens
   * 📚 [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
   * 📝 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-  * 📝 [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
+  * 📝 [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html)
   * 📝 [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
-  * 📝 [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
+  * 📝 [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
 * Docker
   * 📘 [Official docs - Docker overview](https://docs.docker.com/engine/docker-overview)
   * 🔧 [`dive` - A tool for exploring each layer in a Docker image](https://github.com/wagoodman/dive)
   * 🔧 [Lazydocker - The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
 * misc
-  * 📓 [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix), Bruce Barnett
+  * 📓 [The Grymoire - home for UNIX wizards](https://www.grymoire.com/Unix), Bruce Barnett
   * 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-  * 📝 [Learning Vim in 2014](http://benmccormick.org/learning-vim-in-2014)
 
 #### HTTP
 * 📘 [HTTP caching - Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
@@ -108,8 +106,8 @@ See the legend at the end of the list.
 * 📘 [The Python Language Reference](https://docs.python.org/3/reference)
 * 📚 [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest)
 * 📚 [Explore Flask](https://exploreflask.com/en/latest)
-* 📝 [Understanding Python metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
-* 📝 [Mocking in Python: A Guide to Better Unit Tests](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
+* 📝 [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses)
+* 📝 [Mocking in Python: A Guide to Better Unit Tests](https://www.toptal.com/python/an-introduction-to-mocking-in-python)
 * 👓 [A collection of surprising Python snippets and lesser-known features](https://github.com/satwikkansal/wtfpython)
 * 🔧 [pyenv - simple Python version management](https://github.com/pyenv/pyenv)
 * 🔧 [Poetry - Python packaging and dependency management](https://python-poetry.org)
@@ -121,12 +119,12 @@ See the legend at the end of the list.
 #### JS
 * ECMAScript
   * 📚 [Eloquent JavaScript](https://eloquentjavascript.net), Marijn Haverbeke
-  * 📓 [2ality – JavaScript and more](http://2ality.com), Axel Rauschmayer
+  * 📓 [2ality – JavaScript and more](https://2ality.com), Axel Rauschmayer
   * 📓 [V8 JavaScript Engine - blog](https://v8project.blogspot.de)
-  * 📝 [A plain English guide to JavaScript prototypes - Sebastian's blog](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
+  * 📝 [A plain English guide to JavaScript prototypes - Sebastian's blog](https://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * TypeScript
   * 📘 [Documentation](https://www.typescriptlang.org/docs/home.html)
-  * 📝 [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html), Axel Rauschmayer, 08.04.2018
+  * 📝 [Understanding TypeScript’s type notation](https://2ality.com/2018/04/type-notation-typescript.html), Axel Rauschmayer, 08.04.2018
   * 📝 [React+TypeScript Cheatsheets](https://github.com/sw-yx/react-typescript-cheatsheet)
   * 📝 [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 * Node
@@ -137,11 +135,10 @@ See the legend at the end of the list.
   * 📘 [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
   * 📘 [Extensions - MDN](https://developer.mozilla.org/en/docs/Extensions)
 * SVG
-  * 📚 [Pocket Guide to Writing SVG](http://svgpocketguide.com/book)
-  * 📝 [Creating interactive graphs with SVG, Part 1 - Roemer's blog](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
+  * 📚 [Pocket Guide to Writing SVG](https://svgpocketguide.com/book)
+  * 📝 [Creating interactive graphs with SVG, Part 1 - Roemer's blog](https://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
   * 📝 ["Animating SVG with CSS"](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/), Hope Armstrong, 04.04.2019
   * 🔧 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg)
-  * 🔧 [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io)
 * Google Closure Library
   * 📘 [Closure  API Docs](https://google.github.io/closure-library/api)
   * 📝 [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
@@ -154,19 +151,17 @@ See the legend at the end of the list.
   * 🔧 [Mocha](https://mochajs.org/#table-of-contents): framework
   * 🔧 [Chai](https://www.chaijs.com/api/bdd): asserts
   * 🔧 [Sinon.JS](https://sinonjs.org/releases/latest): spies, stubs, mocks
-  * 🔧 [Enzyme](https://airbnb.io/enzyme/docs/api): rendering, manipulation, asserts (for React components)
-  * 🔧 [Storybook](https://github.com/storybooks/storybook): dev environment for UI components (different frameworks)
+  * 🔧 [Enzyme](https://enzymejs.github.io/enzyme/docs/api): rendering, manipulation, asserts (for React components)
+  * 🔧 [Storybook](https://storybook.js.org): dev environment for UI components (different frameworks)
 * misc
   * 📝 [The Service Worker Cookbook](https://serviceworke.rs), Mozilla
   * 📝 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71), Milica Mihajlija, 14.08.2018
   * 📝 [Robust arithmetic in JavaScript](https://github.com/mikolalysenko/robust-arithmetic-notes), Mikola Lysenko
-  * 🔧 [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org)
 
 #### layout, CSS
-* 📝 [CSS-Tricks: A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* 📝 [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 * 📝 [CSS-Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid)
-* 📝 [How to Center in CSS](http://howtocenterincss.com)
-* 🔗 [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
+* 🔗 [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com)
 * 🔧 [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
 * 🔧 [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
 * 🔧 [Unicode character table](https://unicode-table.com/en)
@@ -181,18 +176,19 @@ See the legend at the end of the list.
 * 📝 [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html), Tom MacWright, 23.03.2015
 * 📝 [A dive into spatial search algorithms](https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a), Vladimir Agafonkin, 27.04.2017
 * 📰 [Spatial Awareness newsletter](https://www.getrevue.co/profile/maps), Robin Hawkes
-* 🔗 [Free GIS Datasets](http://freegisdata.rtwilson.com)
+* 🔗 [Free GIS Datasets](https://freegisdata.rtwilson.com)
 * 🔧 [geojson.io](http://geojson.io), [geojson.net](https://geojson.net)
 
 #### data visualization
 * 📚 [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-* 📚 [Fundamentals of Data Visualization](http://serialmentor.com/dataviz)
+* 📚 [Fundamentals of Data Visualization](https://serialmentor.com/dataviz)
 * 🔧 [d3 Wiki](https://github.com/mbostock/d3/wiki)
 
 #### rendering, geometry
 * 📚 [The Book of Shaders](https://thebookofshaders.com), Patricio Gonzalez Vivo and Jen Lowe, 2015
 * 📚 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org), Matt Pharr, Wenzel Jakob, and Greg Humphreys, 2004-2018
 * 📝 [Learn OpenGL: Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
+* 📝 [Raw WebGL](https://alain.xyz/blog/raw-webgl), Alain Galvan, 09.05.2019
 * 📓 [0 FPS](https://0fps.net), Mikola Lysenko
 * 🔧 [regl - Functional WebGL](https://github.com/regl-project/regl)
 * 🔧 [O-GL - Minimal WebGL framework](https://github.com/oframe/ogl)
