@@ -2,8 +2,7 @@
 ### reading
 #### literature
 * 🔗 [УКРЛІТ.ORG](http://ukrlit.org)
-* 📓 [Наш формат](https://nashformat.ua/blog)
-* 📰 [Читомо](http://www.chytomo.com)
+* 📰 [Читомо](https://www.chytomo.com)
 * 📰 [ЛітАкцент](http://litakcent.com)
 
 ### music studies
@@ -11,20 +10,14 @@
 
 ### media
 #### Ukraine 🇺🇦
-##### news
-* 📰 [KyivPost](https://www.kyivpost.com) (en)
-* 📰 [Zbruč](https://zbruc.eu)
-* 📰 [тексти.org.ua](http://texty.org.ua)
-* 📰 [Заборона](https://zaborona.com)
-* 📰 [The Village](http://www.the-village.com.ua)
-* 📰 [platfor.ma](https://platfor.ma)
-* 📰 [Хмарочос](https://hmarochos.kiev.ua) (Kyiv)
-* 📰 [БЖ](https://bzh.life)
-
-##### stories
-* 📰 [Ukraїner](http://ukrainer.net/uk)
+##### news/stories
 * 📰 [Korydor](http://www.korydor.in.ua/ua)
-* 📰 [WAS](https://was.media)
+* 📰 [KyivPost](https://www.kyivpost.com) (en)
+* 📰 [platfor.ma](https://platfor.ma)
+* 📰 [The Village](https://www.the-village.com.ua)
+* 📰 [Ukraїner](https://ukrainer.net)
+* 📰 [Zbruč](https://zbruc.eu)
+* 📰 [тексти.org.ua](https://texty.org.ua)
 
 ##### music 🎧
 * 📰 [comma](https://comma.com.ua)
