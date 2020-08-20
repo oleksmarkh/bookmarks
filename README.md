@@ -172,6 +172,8 @@ See the legend at the end of the list.
 #### GIS
 * 📘 [The GeoJSON Format (RFC)](https://tools.ietf.org/html/rfc7946)
 * 📚 [Introduction to GIS - a free book by Víctor Olaya](https://volaya.github.io/gis-book/en/index.html)
+* 📚 [The History of Cartography](https://press.uchicago.edu/books/HOC/index.html)
+* 📚 [Practical Handbook of Thematic Cartography](https://www.taylorfrancis.com/books/9780429291968)
 * 📝 [mapschool - a free introduction to geo](https://mapschool.io)
 * 📝 [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html), Tom MacWright, 23.03.2015
 * 📝 [A dive into spatial search algorithms](https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a), Vladimir Agafonkin, 27.04.2017
