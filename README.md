@@ -8,8 +8,10 @@ See the legend at the end of the list.
 ## Topics
 ### product development and growth
 * 📚 [Books by Basecamp](https://basecamp.com/books)
+* 📓 [Justin Jackson (Transistor.fm)](https://justinjackson.ca/articles)
 * 📰 [Stacking the Bricks](https://stackingthebricks.com)
-* 🔗 [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* 📰 [The Bootstrapped Founder](https://thebootstrappedfounder.com/newsletter-archive)
+* 🔗 [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers)
 
 ### art and design
 * 📚 [Designing for the Web](https://www.designingfortheweb.co.uk)
