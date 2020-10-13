@@ -153,7 +153,7 @@ See the legend at the end of the list.
   * 🔧 [Mocha](https://mochajs.org/#table-of-contents): framework
   * 🔧 [Chai](https://www.chaijs.com/api/bdd): asserts
   * 🔧 [Sinon.JS](https://sinonjs.org/releases/latest): spies, stubs, mocks
-  * 🔧 [Enzyme](https://enzymejs.github.io/enzyme/docs/api): rendering, manipulation, asserts (for React components)
+  * 🔧 [React Testing Library](https://github.com/testing-library/react-testing-library): replaces [Enzyme](https://enzymejs.github.io/enzyme/docs/api)
   * 🔧 [Storybook](https://storybook.js.org): dev environment for UI components (different frameworks)
 * misc
   * 📝 [The Service Worker Cookbook](https://serviceworke.rs), Mozilla
