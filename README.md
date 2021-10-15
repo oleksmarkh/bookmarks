@@ -6,13 +6,6 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 See the legend at the end of the list.
 
 ## Topics
-### product development and growth
-* 📚 [Books by Basecamp](https://basecamp.com/books)
-* 📓 [Justin Jackson (Transistor.fm)](https://justinjackson.ca/articles)
-* 📰 [Stacking the Bricks](https://stackingthebricks.com)
-* 📰 [The Bootstrapped Founder](https://thebootstrappedfounder.com/newsletter-archive)
-* 🔗 [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers)
-
 ### art and design
 * 📚 [Designing for the Web](https://www.designingfortheweb.co.uk)
 * 📝 [Atomic design](https://bradfrost.com/blog/post/atomic-web-design)
@@ -22,31 +15,22 @@ See the legend at the end of the list.
 
 ### programming
 #### architecture/design
-* game programming
-  * 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html), Bob Nystrom
-  * 🔗 [A study path for game programmer](https://github.com/miloyip/game-programmer), Milo Yip, 2017
-* JS
-  * 📚 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book), Addy Osmani
-  * 📚 [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript), Addy Osmani
-* misc
-  * 📚 [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-  * 📓 [Martin Fowler: Software Design](https://martinfowler.com/design.html)
-  * 📝 [Design Patterns](https://sourcemaking.com/design_patterns)
-  * 📝 [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
-  * 📜 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey, 20.10.2011 ⭐️
-  * 🎥 [Design of Computer Programs: Programming Principles](https://eu.udacity.com/course/design-of-computer-programs--cs212) (advanced)
-  * 👓 [The Twelve-Factor App - a methodology for building SASS apps](https://12factor.net)
-  * 👓 [Keep a Changelog](https://keepachangelog.com)
-  * 👓 [Choose an open source license](https://choosealicense.com)
+* 📚 [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+* 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html), Bob Nystrom
+* 📓 [Martin Fowler: Software Design](https://martinfowler.com/design.html)
+* 📝 [Design Patterns](https://sourcemaking.com/design_patterns)
+* 📝 [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+* 📜 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey, 20.10.2011 ⭐️
+* 🎥 [Design of Computer Programs: Programming Principles](https://eu.udacity.com/course/design-of-computer-programs--cs212) (advanced)
+* 👓 [The Twelve-Factor App](https://12factor.net)
+* 👓 [Keep a Changelog](https://keepachangelog.com)
+* 👓 [Choose an open source license](https://choosealicense.com)
 
 #### algorithms, data structures
 * 📚 [A Programmer's Introduction to Mathematics](https://pimbook.org), Jeremy Kun, 2018
 * 📝 [Computer Science in Plain English](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 * 🎥 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University (intermediate)
 * 🎥 [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms), Princeton University (advanced)
-
-#### interpreters
-* 📚 [Crafting Interpreters - A handbook for making programming languages](https://www.craftinginterpreters.com/contents.html), Bob Nystrom
 
 #### FP
 * SICP
@@ -84,7 +68,7 @@ See the legend at the end of the list.
   * 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 
 #### HTTP
-* 📘 [HTTP caching - Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+* 📘 [HTTP caching - Web Fundamentals](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * 📚 [High Performance Browser Networking](https://hpbn.co), Ilya Grigorik
 * 📝 [Why trailing slashes on URIs are important](https://cdivilly.wordpress.com/2014/03/11/why-trailing-slashes-on-uris-are-important)
 * 👓 [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices), Jake Archibald
@@ -146,7 +130,7 @@ See the legend at the end of the list.
   * 📝 [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * testing
   * 📝 [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
-  * 🔧 [Tape](https://github.com/substack/tape): minimalistic framework, asserts
+  * 🔧 [Tape](https://github.com/substack/tape): minimal framework, asserts
   * 🔧 [Jest](https://jestjs.io/docs/en/expect): framework, asserts, spies
   * 🔧 [Jasmine](https://jasmine.github.io/api/edge/global): framework, asserts, spies
   * 🔧 [Karma](https://karma-runner.github.io/latest/index.html): runner
@@ -209,8 +193,11 @@ See the legend at the end of the list.
 * misc
   * 🔧 [CloudConvert - convert anything to anything](https://cloudconvert.org)
 
-#### collections (misc)
+#### misc
+* 📚 [Crafting Interpreters - A handbook for making programming languages](https://www.craftinginterpreters.com/contents.html), Bob Nystrom
+* 📓 [PortSwigger materials on web security](https://portswigger.net/web-security/all-materials)
 * 📻 [egghead.io podcast about software development](https://egghead.io/podcasts)
+* 📰 [Stacking the Bricks](https://stackingthebricks.com)
 * 🔗 [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 
 ## Legend
