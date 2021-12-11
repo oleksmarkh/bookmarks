@@ -6,18 +6,16 @@ Links, collected and grouped in [Markdown](https://guides.github.com/features/ma
 See the legend at the end of the list.
 
 ## Topics
-### art and design
-* 📚 [Designing for the Web](https://www.designingfortheweb.co.uk)
+### design
+* 📚 [Designing for the Web](https://www.designingfortheweb.co.uk), Mark Boulton
 * 📝 [Atomic design](https://bradfrost.com/blog/post/atomic-web-design)
 * 🎥 [Intro to the Design of Everyday Things: Principles of Design](https://eu.udacity.com/course/intro-to-the-design-of-everyday-things--design101) (beginner)
-* 📰 [Telegraf](https://telegraf.design)
-* 🔗 [Lospec - digitally restrictive art (tools and resources)](https://lospec.com)
 
 ### programming
 #### architecture/design
 * 📚 [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html), Bob Nystrom
-* 📓 [Martin Fowler: Software Design](https://martinfowler.com/design.html)
+* 📓 [Software Architecture Guide](https://martinfowler.com/architecture), Martin Fowler
 * 📝 [Design Patterns](https://sourcemaking.com/design_patterns)
 * 📝 [The System Design Primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * 📜 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey, 20.10.2011 ⭐️
@@ -45,10 +43,8 @@ See the legend at the end of the list.
   * 📘 [Docs](https://elm-lang.org/docs), 📘 [Guide](https://guide.elm-lang.org), 📓 [Blog](https://elm-lang.org/blog)
   * 📚 [Practical Elm for a Busy Developer](https://korban.net/elm/book), Alex Korban
   * 💬 [Elm Discourse](https://discourse.elm-lang.org)
-  * 🔧 [WebGL for Elm](https://github.com/elm-explorations/webgl)
 * misc
   * 📚 [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
-  * 📝 [Functional Programming For The Rest of Us](https://www.defmacro.org/2006/06/19/fp.html), Slava Akhmechet
   * 🔗 [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 
 #### Unix and tooling
@@ -60,7 +56,7 @@ See the legend at the end of the list.
   * 📝 [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
   * 📝 [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
 * Docker
-  * 📘 [Official docs - Docker overview](https://docs.docker.com/engine/docker-overview)
+  * 📘 [Docker overview](https://docs.docker.com/get-started/overview)
   * 🔧 [`dive` - A tool for exploring each layer in a Docker image](https://github.com/wagoodman/dive)
   * 🔧 [Lazydocker - The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
 * misc
@@ -68,9 +64,9 @@ See the legend at the end of the list.
   * 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 
 #### HTTP
-* 📘 [HTTP caching - Web Fundamentals](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * 📚 [High Performance Browser Networking](https://hpbn.co), Ilya Grigorik
 * 📝 [Why trailing slashes on URIs are important](https://cdivilly.wordpress.com/2014/03/11/why-trailing-slashes-on-uris-are-important)
+* 👓 [Network reliability - web.dev](https://web.dev/reliable)
 * 👓 [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices), Jake Archibald
 
 #### DB
@@ -109,25 +105,20 @@ See the legend at the end of the list.
   * 📓 [V8 JavaScript Engine - blog](https://v8project.blogspot.de)
   * 📝 [A plain English guide to JavaScript prototypes - Sebastian's blog](https://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes)
 * TypeScript
-  * 📘 [Documentation](https://www.typescriptlang.org/docs/home.html)
+  * 📘 [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
   * 📝 [Understanding TypeScript’s type notation](https://2ality.com/2018/04/type-notation-typescript.html), Axel Rauschmayer, 08.04.2018
-  * 📝 [React+TypeScript Cheatsheets](https://github.com/sw-yx/react-typescript-cheatsheet)
-  * 📝 [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 * Node
   * 📘 [Node.js API](https://nodejs.org/api)
-  * 🔗 [Node Weekly - news and articles](https://nodeweekly.com/issues)
   * 🔧 [ndb - debugging with Chrome DevTools](https://github.com/GoogleChromeLabs/ndb)
 * extensions
-  * 📘 [Developer's Guide - Google Chrome](https://developer.chrome.com/extensions/devguide)
-  * 📘 [Extensions - MDN](https://developer.mozilla.org/en/docs/Extensions)
+  * 📘 [Chrome - Extension development overview](https://developer.chrome.com/docs/extensions/mv3/devguide)
+  * 📘 [Firefox - Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+  * 📘 [VSCode - Extension API](https://code.visualstudio.com/api)
 * SVG
   * 📚 [Pocket Guide to Writing SVG](https://svgpocketguide.com/book)
   * 📝 [Creating interactive graphs with SVG, Part 1 - Roemer's blog](https://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1)
-  * 📝 ["Animating SVG with CSS"](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/), Hope Armstrong, 04.04.2019
+  * 📝 ["Animating SVG with CSS"](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c), Hope Armstrong, 04.04.2019
   * 🔧 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg)
-* Google Closure Library
-  * 📘 [Closure  API Docs](https://google.github.io/closure-library/api)
-  * 📝 [Building an Application with the Google Closure Library](https://developers.google.com/closure/library/docs/tutorial)
 * testing
   * 📝 [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
   * 🔧 [Tape](https://github.com/substack/tape): minimal framework, asserts
@@ -140,20 +131,18 @@ See the legend at the end of the list.
   * 🔧 [React Testing Library](https://github.com/testing-library/react-testing-library): replaces [Enzyme](https://enzymejs.github.io/enzyme/docs/api)
   * 🔧 [Storybook](https://storybook.js.org): dev environment for UI components (different frameworks)
 * misc
-  * 📝 [The Service Worker Cookbook](https://serviceworke.rs), Mozilla
   * 📝 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71), Milica Mihajlija, 14.08.2018
-  * 📝 [Robust arithmetic in JavaScript](https://github.com/mikolalysenko/robust-arithmetic-notes), Mikola Lysenko
 
 #### layout, CSS
 * 📝 [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 * 📝 [CSS-Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid)
+* 📝 [Rendering Performance - The pixel pipeline](https://developers.google.com/web/fundamentals/performance/rendering#the_pixel_pipeline), Paul Lewis
 * 🔗 [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com)
-* 🔧 [Semantic UI (a UI framework designed for theming)](https://semantic-ui.com)
-* 🔧 [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css)
-* 🔧 [Unicode character table](https://unicode-table.com/en)
 
 #### accessibility
 * 💬 [The A11Y Project - A community-driven effort to make web accessibility easier](https://a11yproject.com)
+* 🔧 [React Aria - accessible UI primitives](https://react-spectrum.adobe.com/react-aria)
+* 🔧 [Radix - unstyled, accessible components](https://www.radix-ui.com)
 
 #### GIS
 * 📘 [The GeoJSON Format (RFC)](https://tools.ietf.org/html/rfc7946)
@@ -165,7 +154,7 @@ See the legend at the end of the list.
 * 📝 [A dive into spatial search algorithms](https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a), Vladimir Agafonkin, 27.04.2017
 * 📰 [Spatial Awareness newsletter](https://www.getrevue.co/profile/maps), Robin Hawkes
 * 🔗 [Free GIS Datasets](https://freegisdata.rtwilson.com)
-* 🔧 [geojson.io](http://geojson.io), [geojson.net](https://geojson.net)
+* 🔧 [geojson.io](http://geojson.io), [Placemark](https://www.placemark.io)
 
 #### data visualization
 * 📚 [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
@@ -177,7 +166,8 @@ See the legend at the end of the list.
 * 📚 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org), Matt Pharr, Wenzel Jakob, and Greg Humphreys, 2004-2018
 * 📝 [Learn OpenGL: Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
 * 📝 [Raw WebGL](https://alain.xyz/blog/raw-webgl), Alain Galvan, 09.05.2019
-* 📓 [0 FPS](https://0fps.net), Mikola Lysenko
+* 📝 [Robust arithmetic in JavaScript](https://github.com/mikolalysenko/robust-arithmetic-notes), Mikola Lysenko
+* 🔧 [Elm Explorations - WebGL for Elm](https://github.com/elm-explorations/webgl#understanding-webgl)
 * 🔧 [regl - Functional WebGL](https://github.com/regl-project/regl)
 * 🔧 [O-GL - Minimal WebGL framework](https://github.com/oframe/ogl)
 
@@ -196,9 +186,9 @@ See the legend at the end of the list.
 #### misc
 * 📚 [Crafting Interpreters - A handbook for making programming languages](https://www.craftinginterpreters.com/contents.html), Bob Nystrom
 * 📓 [PortSwigger materials on web security](https://portswigger.net/web-security/all-materials)
-* 📻 [egghead.io podcast about software development](https://egghead.io/podcasts)
 * 📰 [Stacking the Bricks](https://stackingthebricks.com)
 * 🔗 [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
+* 🔗 [Lospec - digitally restrictive art (tools and resources)](https://lospec.com)
 
 ## Legend
 Categories:
@@ -214,7 +204,7 @@ Categories:
 * 🔗 - catalog, digest
 * 💬 - community forum
 * 👓 - style guide, best practices
-* 🔧 - tool (lib/framework)
+* 🔧 - tool (lib/framework/service)
 * ⭐️ - favorite
 
 [license-image]: https://img.shields.io/github/license/oleksmarkh/bookmarks.svg?style=flat-square
