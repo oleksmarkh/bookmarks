@@ -44,7 +44,7 @@ See the legend at the end of the list.
   * 📚 [Practical Elm for a Busy Developer](https://korban.net/elm/book), Alex Korban
   * 💬 [Elm Discourse](https://discourse.elm-lang.org)
 * misc
-  * 📚 [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)
+  * 📚 [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
   * 🔗 [Brilliant people giving brilliant talks on functional programming](http://functionaltalks.org)
 
 #### Unix and tooling
@@ -56,9 +56,17 @@ See the legend at the end of the list.
   * 📝 [SSHFS - How to Mount Remote Linux Filesystem or Directory Using SSHFS Over SSH](https://www.tecmint.com/sshfs-mount-remote-linux-filesystem-directory-using-ssh)
   * 📝 [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course), Josh Clayton
 * Docker
-  * 📘 [Docker overview](https://docs.docker.com/get-started/overview)
+  * 📘 [Overview](https://docs.docker.com/get-started/overview)
+  * 📘 [Glossary](https://docs.docker.com/glossary/)
+  * 📘 [Containers and VMs](https://www.docker.com/resources/what-container)
+  * 📘 [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+  * 📘 [Compose file v3 reference](https://docs.docker.com/compose/compose-file/compose-file-v3/)
   * 🔧 [`dive` - A tool for exploring each layer in a Docker image](https://github.com/wagoodman/dive)
   * 🔧 [Lazydocker - The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
+* Kubernetes
+  * 📘 [Concepts - Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
+  * 📘 [Exploring - Pods and Nodes](https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/)
+  * 📘 [Reference - `kubectl`](https://kubernetes.io/docs/reference/kubectl/)
 * misc
   * 📓 [The Grymoire - home for UNIX wizards](https://www.grymoire.com/Unix), Bruce Barnett
   * 🎥 [AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0)
@@ -150,16 +158,15 @@ See the legend at the end of the list.
 * 📚 [The History of Cartography](https://press.uchicago.edu/books/HOC/index.html)
 * 📚 [Practical Handbook of Thematic Cartography](https://www.taylorfrancis.com/books/9780429291968)
 * 📝 [mapschool - a free introduction to geo](https://mapschool.io)
-* 📝 [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html), Tom MacWright, 23.03.2015
+* 📝 [More than you ever wanted to know about GeoJSON](https://macwright.com/2015/03/23/geojson-second-bite.html), Tom MacWright, 23.03.2015
 * 📝 [A dive into spatial search algorithms](https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a), Vladimir Agafonkin, 27.04.2017
-* 📰 [Spatial Awareness newsletter](https://www.getrevue.co/profile/maps), Robin Hawkes
+* 📰 [Spatial Awareness newsletter](https://www.getrevue.co/profile/maps), Robin Hawkes, 2019-2020
 * 🔗 [Free GIS Datasets](https://freegisdata.rtwilson.com)
 * 🔧 [geojson.io](http://geojson.io), [Placemark](https://www.placemark.io)
 
 #### data visualization
-* 📚 [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-* 📚 [Fundamentals of Data Visualization](https://serialmentor.com/dataviz)
-* 🔧 [d3 Wiki](https://github.com/mbostock/d3/wiki)
+* 📚 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz), Claus O. Wilke, 2019
+* 🔧 [d3 Wiki](https://github.com/d3/d3/wiki)
 
 #### rendering, geometry
 * 📚 [The Book of Shaders](https://thebookofshaders.com), Patricio Gonzalez Vivo and Jen Lowe, 2015
@@ -186,6 +193,7 @@ See the legend at the end of the list.
 #### misc
 * 📚 [Crafting Interpreters - A handbook for making programming languages](https://www.craftinginterpreters.com/contents.html), Bob Nystrom
 * 📓 [PortSwigger materials on web security](https://portswigger.net/web-security/all-materials)
+* 📝 [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions), Jacob Kaplan-Moss, 2021
 * 📰 [Stacking the Bricks](https://stackingthebricks.com)
 * 🔗 [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 * 🔗 [Lospec - digitally restrictive art (tools and resources)](https://lospec.com)

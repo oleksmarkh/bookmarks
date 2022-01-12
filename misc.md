@@ -30,5 +30,5 @@
 * 🔧 [DeepL Translator](https://www.deepl.com/translator)
 
 ### taxes, Germany 🇩🇪
-* 🔧 [Lohn- und Einkommensteuerberechnung](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
+* 🔧 [Lohnsteuerberechnung](http://www.parmentier.de/steuer/index.php?site=lohnsteuerrechnerjava)
 * 🔧 [smartsteuer - Steuererklärung](https://www.smartsteuer.de/online)
