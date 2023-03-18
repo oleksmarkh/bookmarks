@@ -198,6 +198,7 @@ See the legend at the end of the list.
 * 📚 [Crafting Interpreters - A handbook for making programming languages](https://www.craftinginterpreters.com/contents.html), Bob Nystrom
 * 📓 [PortSwigger materials on web security](https://portswigger.net/web-security/all-materials)
 * 📝 [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/), Jacob Kaplan-Moss, 2021
+* 📜 [Choose Boring Technology](https://boringtechnology.club/), Dan McKinley
 * 📰 [Stacking the Bricks](https://stackingthebricks.com)
 * 🔗 [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade/)
 * 🔗 [Lospec - digitally restrictive art (tools and resources)](https://lospec.com)
